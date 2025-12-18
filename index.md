@@ -1,3 +1,9 @@
+---
+layout: default
+title: Inicio
+nav_order: 1
+description: "Página principal de la documentación del proyecto."
+---
 # 📂 Planificación del Proyecto
 
 Bienvenido al repositorio de documentación. Aquí encontrarás toda la información relativa a la asignatura.
