@@ -1,3 +1,11 @@
-title: Planificación de Proyecto - [PDSC]
-description: Documentación y entregables del proyecto.
-theme: jekyll-theme-tactile
+title: Planificación del Proyecto
+description: Documentación de la asignatura.
+remote_theme: just-the-docs/just-the-docs
+
+# Esto activa el buscador integrado
+search_enabled: true
+
+# Configuración básica del tema
+aux_links:
+  "Repositorio del Proyecto":
+    - "https://github.com/Azael-uva/tu-repositorio"
