@@ -14,4 +14,4 @@ Bienvenido al repositorio de documentación. Aquí encontrarás toda la informac
 * [Carpeta de PDFs y Anexos](docs/anexos.md)
 
 ---
-**Última actualización:** Mayo 2024
+**Última actualización:** 18/12/2025
