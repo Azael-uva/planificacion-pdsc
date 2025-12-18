@@ -9,7 +9,7 @@ description: "Página principal de la documentación del proyecto."
 Bienvenido al repositorio de documentación. Aquí encontrarás toda la información relativa a la asignatura.
 
 ## 📌 Secciones Principales
-* [Cronograma de Actividades](docs/cronograma.md)
+* [Cronograma de Actividades](docs/PlantillaActas.xlsx)
 * [Requisitos del Sistema](docs/requisitos.md)
 * [Carpeta de PDFs y Anexos](docs/anexos.md)
 
