@@ -22,8 +22,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
   border-collapse: collapse;
   background-color: white;
   color: #24292e;
-  margin: 0;
-  margin-block-end: 0;">
+  display: block !important;">
     <tbody>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA Y HORA</b></td>
