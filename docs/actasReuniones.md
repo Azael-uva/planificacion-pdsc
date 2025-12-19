@@ -69,4 +69,3 @@ En esta sección se encuentra la información relativa a las actas de las reunio
           </div>
         </td>
       </tr></tbody></table></div>
-
