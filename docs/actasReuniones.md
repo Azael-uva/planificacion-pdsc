@@ -18,7 +18,12 @@ En esta sección se encuentra la información relativa a las actas de las reunio
   <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
     📋 ACTA DE REUNIÓN INICIAL
   </div>
-  <table style="width: 100%; display: block;border-collapse: collapse; background-color: white; color: #24292e; margin-bottom: 0px !important;">
+  <table style="width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+  color: #24292e;
+  margin: 0;
+  margin-block-end: 0;">
     <tbody>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA Y HORA</b></td>
