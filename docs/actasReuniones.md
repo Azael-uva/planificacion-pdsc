@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Actas de reuniones
+title: Reuniones
 nav_order: 2
 ---
 
