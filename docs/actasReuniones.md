@@ -15,9 +15,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
 
 
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; padding: 0px;  box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
-  <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
-    📋 ACTA DE REUNIÓN INICIAL
-  </div>
+  
   <table style="width: 100%;
   border-collapse: collapse;
   background-color: white;
@@ -26,6 +24,9 @@ En esta sección se encuentra la información relativa a las actas de las reunio
   border-radius: 10px;
   overflow: hidden;">
     <tbody>
+      <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
+    📋 ACTA DE REUNIÓN INICIAL
+  </div>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA Y HORA</b></td>
         <td style="padding: 15px;">17/11/2025 — 12:00</td>
