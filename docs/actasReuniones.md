@@ -54,7 +54,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
         </td>
       </tr>
       <tr>
-        <td style="padding: 15px; background-color: #e6ffed; border-right: 1px solid #d0d7de;"><b>✅ ACUERDOS ADOPTADOS</b></td>
+        <td style="padding: 15px; background-color: #f6f8fa; border-right: 1px solid #d0d7de;"><b>✅ ACUERDOS ADOPTADOS</b></td>
         <td style="padding: 15px; background-color: #f0fff4;">
           <div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
             <div><b>1:</b> Rafael Miguel Mendizabal García encargado de crear el git del proyecto.</div>
