@@ -14,7 +14,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
 [Actas reuniones (XLSX)](../assets/documentos/PlantillaActas.xlsx)
 
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #d0d7de; border-radius: 10px;padding: 0px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
   <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
     📋 ACTA DE REUNIÓN INICIAL
   </div>
