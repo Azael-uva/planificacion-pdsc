@@ -9,11 +9,14 @@ has_toc: true
 # 👥 Reuniones
 
 En esta sección se encuentra la información relativa a las actas de las reuniones realizadas a lo largo del proyecto.  
-## Reunión inicial del proyecto  
-
-
-
+## Índice de actas
+1. [Descarga Actas](#descarga-actas)
+2. [Reunión inicial](#reunion-inicial)
+## Descarga de archivo de actas {#decarga-actas}
 [Actas reuniones (XLSX)](../assets/documentos/PlantillaActas.xlsx)
+
+## Reunión inicial del proyecto  {#reunion-inicial}
+
 
 
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; padding: 0px;  box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
@@ -78,3 +81,5 @@ En esta sección se encuentra la información relativa a las actas de las reunio
           </div>
         </td>
       </tr></tbody></table></div>
+
+## 2ª Reunión
