@@ -23,7 +23,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
   </div>
 
   <div style="flex: 2; min-width: 300px;">
-    <p style="margin-top: 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em;">Responsable de Planificación</p>
+    <p style="margin-top: 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em;">Project Manager</p>
     <p style="line-height: 1.6; color: #24292e;">
       Estudiante de Ingeniería del Software. Como encargado de la planificación, me aseguro de que el equipo cumpla con los hitos establecidos y la gestión eficiente de los recursos del proyecto. Especialista en análisis de requisitos y metodologías ágiles.
     </p>
