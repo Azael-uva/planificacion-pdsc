@@ -13,9 +13,9 @@ En esta sección se encuentra la información sobre los diferentes miembros que 
 3. [Francisco Javier Juárez Gutiérrez](#nano)
 4. [Rafael Miguel Mendizabal García](#rafa)
 5. [Isabel Isidro Seifert](#isabel)
-## Descarga Equipo  
+## Descarga Equipo {#descarga-equipo}  
 Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/PlantillaEquipo.xlsx)  
-## Azael Bastardo Rodríguez  
+## Azael Bastardo Rodríguez {#azael}  
 
   <div style="display: flex; flex-direction: column; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto;">
 
@@ -125,7 +125,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 </div>
 
 ---
-## Francisco Javier Juárez Gutiérrez  
+## Francisco Javier Juárez Gutiérrez {#nano}  
 <div style="display: flex; flex-direction: column; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto;">
 
   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: start; margin-bottom: 25px;">
@@ -232,5 +232,6 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     </div>
   </div>
 </div>
-## Rafael Miguel Mendizabal García  
-## Isabel Isidro Seifert
+
+## Rafael Miguel Mendizabal García {#rafa}  
+## Isabel Isidro Seifert {#isabel}
