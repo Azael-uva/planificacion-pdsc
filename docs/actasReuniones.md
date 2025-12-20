@@ -164,11 +164,11 @@ En esta sección se encuentra la información relativa a las actas de las reunio
       </div>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA Y HORA</b></td>
-        <td style="padding: 15px;">18/11/2025 — 10:00</td>
+        <td style="padding: 15px;">25/11/2025 — 10:00</td>
       </tr>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa;"><b>📍 LUGAR</b></td>
-        <td style="padding: 15px;">Laboratorio de la Escuela</td>
+        <td style="padding: 15px;">Cafetería de la Escuela</td>
       </tr>
       <tr style="border-bottom: 1px solid #d0d7de;">
         <td style="padding: 15px; background-color: #f6f8fa;"><b>👥 ASISTENTES</b></td>
@@ -176,6 +176,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
           <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
             <li>Rafael Miguel Mendizabal García</li>
             <li>Francisco Javier Juárez Gutiérrez</li>
+            <li>Isabel Isidro Seifert</li>
             <li>Azael Bastardo Rodríguez</li>
           </ul>
         </td>
@@ -184,7 +185,10 @@ En esta sección se encuentra la información relativa a las actas de las reunio
         <td style="padding: 15px; background-color: #f6f8fa;"><b>📝 ORDEN DEL DÍA</b></td>
         <td style="padding: 15px; font-size: 0.95em;">
           <div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
-            <div><b>1:</b> Fijar un encargado de la parte de planificación del proyecto.</div>
+            <div><b>1:</b> Cómo empezar la parte de diseño del proyecto.</div>
+            <div><b>2:</b> Cuáles son los diagramas necesarios.</div>
+            <div><b>3:</b> Encargados de realizar los diagramas.</div>
+            <div><b>4:</b> Comprobar acceso a la máquina virtual asignada.</div>
           </div>
         </td>
       </tr>
@@ -192,7 +196,10 @@ En esta sección se encuentra la información relativa a las actas de las reunio
         <td style="padding: 15px; background-color: #f6f8fa; border-right: 1px solid #d0d7de;"><b>✅ ACUERDOS ADOPTADOS</b></td>
         <td style="padding: 15px;">
           <div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
-            <div><b>1:</b> Azael Bastardo Rodríguez queda designado como encargado de la parte de planificación del proyecto.</div>
+            <div><b>1:</b> Identificar todos los diagramas que sean necesarios.</div>
+            <div><b>2:</b> En un primer momento se identifican los siguientes diagramas: diagramas de clases por casos de uso, diagramas de secuencia por casos de uso, diagrama de despliegue, diagrama de paquetes, diagrama de componentes y conectores, diagrama de actividad y posiblemente diagrama de comunicación (consultar con Eduardo).</div>
+            <div><b>3:</b> Se decide que todos los miembros del grupo participarán en esta parte del diseño, ya que se considera crucial.</div>
+            <div><b>4:</b> Se crea un usuario y una contraseña para acceder a la máquina virtual, este usuario y contraseña será usado por todos los miembros del equipo para acceder a la máquina y realizar las operaciones correspondientes.</div>
           </div>
         </td>
       </tr>
