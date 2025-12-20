@@ -16,48 +16,51 @@ En esta sección se encuentra la información sobre los diferentes miembros que 
 ## Descarga Equipo  
 Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/PlantillaEquipo.xlsx)  
 ## Azael Bastardo Rodríguez  
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: start; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px;">
-  
-  <div style="flex: 1; min-width: 150px; max-width: 200px;">
-    <img src="../assets/img/equipo/azael.png" alt="Azael Bastardo" style="width: 100%; border-radius: 10px; border: 1px solid #d0d7de; display: block;">
-  </div>
 
-  <div style="flex: 2; min-width: 300px; margin-left: 10px;">
-    <p style="margin: 0 0 15px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
-        Project Manager
-    </p>
-    
-    <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
-      <div><strong> Rol secundario:</strong> Diseño y desarrollo software</div>
-      <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> 5º Indat</div>
+  <div style="display: flex; flex-direction: column; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto;">
 
-      <div style="display: flex; align-items: center;">
-        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
-          <img src="../assets/img/iconos/email.png" width="18" height="18" alt="Email">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: start; margin-bottom: 25px;">
+    <div style="flex: 1; min-width: 150px; max-width: 200px;">
+      <img src="../assets/img/equipo/azael.png" alt="Azael Bastardo" style="width: 100%; border-radius: 10px; border: 1px solid #d0d7de; display: block;">
+    </div>
+
+    <div style="flex: 2; min-width: 300px;">
+      <p style="margin: 0 0 15px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
+          🚀 Project Manager
+      </p>
+      
+      <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
+        <div><strong>🥈 Rol secundario:</strong> Diseño y desarrollo software</div>
+        <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> 5º Indat</div>
+
+        <div style="display: flex; align-items: center;">
+          <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+            <img src="../assets/img/iconos/email.png" width="18" height="18" alt="Email">
+          </div>
+          <span><strong>Correo:</strong> <a href="mailto:azael.bastardo@estudiantes.uva.es" style="color: #0969da; text-decoration: none;">azael.bastardo@estudiantes.uva.es</a></span>
         </div>
-        <span><strong>Correo:</strong> <a href="mailto:azael.bastardo@estudiantes.uva.es" style="color: #0969da; text-decoration: none;">azael.bastardo@estudiantes.uva.es</a></span>
-      </div>
 
-      <div style="display: flex; align-items: center;">
-        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
-          <img src="../assets/img/iconos/whatsapp.png" width="18" height="18" alt="WhatsApp">
+        <div style="display: flex; align-items: center;">
+          <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+            <img src="../assets/img/iconos/whatsapp.png" width="18" height="18" alt="WhatsApp">
+          </div>
+          <span><strong>WhatsApp:</strong> +34 69* *** **2</span>
         </div>
-        <span><strong>WhatsApp:</strong> +34 69* *** **2</span>
-      </div>
 
-      <div style="display: flex; align-items: center;">
-        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
-          <img src="../assets/img/iconos/discord.png" width="18" height="18" alt="Discord">
+        <div style="display: flex; align-items: center;">
+          <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+            <img src="../assets/img/iconos/discord.png" width="18" height="18" alt="Discord">
+          </div>
+          <span><strong>Discord:</strong> @a*******8</span>
         </div>
-        <span><strong>Discord:</strong> @a*******8</span>
       </div>
     </div>
   </div>
 
-  <div style="width: 100%; border-top: 1px solid #d0d7de; padding-top: 20px; margin-top: 10px;">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 40px;">
+  <div style="border-top: 1px solid #d0d7de; padding-top: 25px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 40px;">
       
-      <div>
+      <div style="flex: 1; min-width: 300px;">
         <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.5px;">🛠️ Habilidades Técnicas</p>
         <div style="display: flex; flex-direction: column; gap: 12px;">
           <div>
@@ -83,15 +86,31 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
         </div>
       </div>
 
-      <div>
+      <div style="flex: 1; min-width: 300px;">
         <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.5px;">🤝 Soft Skills</p>
         <div style="display: flex; flex-direction: column; gap: 12px;">
           <div>
-            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Organizador / Conseguidor / Compromiso</span><strong>5/5</strong></div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Organizador</span><strong>5/5</strong></div>
             <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
           </div>
           <div>
-            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Comunicador / Mediador / Crítico</span><strong>4/5</strong></div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Conseguidor</span><strong>5/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Compromiso</span><strong>5/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Comunicador</span><strong>4/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Mediador</span><strong>4/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Crítico</span><strong>4/5</strong></div>
             <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
           </div>
           <div>
