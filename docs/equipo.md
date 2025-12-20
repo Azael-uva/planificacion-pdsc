@@ -232,6 +232,8 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     </div>
   </div>
 </div>
+
+---
 ## Rafael Miguel Mendizabal García {#rafa}  
 <div style="display: flex; flex-direction: column; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto;">
 
@@ -340,6 +342,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
   </div>
 </div>
 
+---
 ## Isabel Isidro Seifert {#isabel}  
 <div style="display: flex; flex-direction: column; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: auto;">
 
