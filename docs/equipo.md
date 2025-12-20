@@ -13,6 +13,8 @@ En esta sección se encuentra la información sobre los diferentes miembros que 
 3. [Francisco Javier Juárez Gutiérrez](#nano)
 4. [Rafael Miguel Mendizabal García](#rafa)
 5. [Isabel Isidro Seifert](#isabel)
+## Descarga Equipo  
+Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/PlantillaEquipo.xlsx)  
 ## Azael Bastardo Rodríguez  
 ## Francisco Javier Juárez Gutiérrez  
 ## Rafael Miguel Mendizabal García  
