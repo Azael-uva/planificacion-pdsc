@@ -52,6 +52,65 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
         </div>
         <span><strong>Discord:</strong> @a*******8</span>
       </div>
+  
+    </div>
+  </div>
+  <div style="border-top: 1px solid #d0d7de; padding-top: 20px;">
+    <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
+      🛠️ Habilidades Técnicas
+    </p>
+    
+    <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
+      
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
+          <span>Reporting</span>
+          <span>4 / 5</span>
+        </div>
+        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
+          <div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div>
+        </div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
+          <span>Java</span>
+          <span>5 / 5</span>
+        </div>
+        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
+          <div style="background-color: #0969da; height: 100%; width: 100%; border-radius: 10px;"></div>
+        </div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
+          <span>JavaScript</span>
+          <span>4 / 5</span>
+        </div>
+        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
+          <div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div>
+        </div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
+          <span>SysOP-Linux</span>
+          <span>3 / 5</span>
+        </div>
+        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
+          <div style="background-color: #0969da; height: 100%; width: 60%; border-radius: 10px;"></div>
+        </div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
+          <span>Web-dev</span>
+          <span>2 / 5</span>
+        </div>
+        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
+          <div style="background-color: #0969da; height: 100%; width: 40%; border-radius: 10px;"></div>
+        </div>
+      </div>
 
     </div>
   </div>
