@@ -102,8 +102,8 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
             <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
           </div>
           <div>
-            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Comunicador</span><strong>4/5</strong></div>
-            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Comunicador</span><strong>5/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
           </div>
           <div>
             <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Mediador</span><strong>4/5</strong></div>
@@ -114,8 +114,8 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
             <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
           </div>
           <div>
-            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Iniciador</span><strong>3/5</strong></div>
-            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 60%; border-radius: 10px;"></div></div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Iniciador</span><strong>4/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
           </div>
         </div>
       </div>
