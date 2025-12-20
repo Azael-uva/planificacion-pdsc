@@ -56,59 +56,49 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     </div>
   </div>
   <div style="border-top: 1px solid #d0d7de; padding-top: 20px;">
-    <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
-      🛠️ Habilidades Técnicas
-    </p>
-    
-    <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 40px;">
       
       <div>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
-          <span>Reporting</span>
-          <span>4 / 5</span>
-        </div>
-        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
-          <div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div>
-        </div>
-      </div>
-
-      <div>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
-          <span>Java</span>
-          <span>5 / 5</span>
-        </div>
-        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
-          <div style="background-color: #0969da; height: 100%; width: 100%; border-radius: 10px;"></div>
-        </div>
-      </div>
-
-      <div>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
-          <span>JavaScript</span>
-          <span>4 / 5</span>
-        </div>
-        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
-          <div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div>
+        <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.5px;">🛠️ Habilidades Técnicas</p>
+        <div style="display: flex; flex-direction: column; gap: 12px;">
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Java</span><strong>5/5</strong></div>
+            <div style="background-color: #f6f8fa; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #d0d7de;"><div style="background-color: #0969da; height: 100%; width: 100%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Reporting</span><strong>4/5</strong></div>
+            <div style="background-color: #f6f8fa; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #d0d7de;"><div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>JavaScript</span><strong>4/5</strong></div>
+            <div style="background-color: #f6f8fa; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #d0d7de;"><div style="background-color: #0969da; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>SysOP-Linux</span><strong>3/5</strong></div>
+            <div style="background-color: #f6f8fa; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #d0d7de;"><div style="background-color: #0969da; height: 100%; width: 60%; border-radius: 10px;"></div></div>
+          </div>
         </div>
       </div>
 
       <div>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
-          <span>SysOP-Linux</span>
-          <span>3 / 5</span>
-        </div>
-        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
-          <div style="background-color: #0969da; height: 100%; width: 60%; border-radius: 10px;"></div>
-        </div>
-      </div>
-
-      <div>
-        <div style="display: flex; justify-content: space-between; margin-bottom: 5px; font-size: 0.9em;">
-          <span>Web-dev</span>
-          <span>2 / 5</span>
-        </div>
-        <div style="background-color: #f6f8fa; border-radius: 10px; height: 8px; width: 100%; border: 1px solid #d0d7de;">
-          <div style="background-color: #0969da; height: 100%; width: 40%; border-radius: 10px;"></div>
+        <p style="margin: 0 0 20px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.8em; letter-spacing: 0.5px;">🤝 Soft Skills</p>
+        <div style="display: flex; flex-direction: column; gap: 12px;">
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Compromiso</span><strong>5/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Organizador</span><strong>5/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 100%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Comunicador</span><strong>4/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
+          <div>
+            <div style="display: flex; justify-content: space-between; margin-bottom: 4px; font-size: 0.85em;"><span>Mediador</span><strong>4/5</strong></div>
+            <div style="background-color: #fff5e9; border-radius: 10px; height: 6px; width: 100%; border: 1px solid #f8e1c7;"><div style="background-color: #f66a0a; height: 100%; width: 80%; border-radius: 10px;"></div></div>
+          </div>
         </div>
       </div>
 
