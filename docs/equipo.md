@@ -28,11 +28,31 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     </p>
     
     <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
+      
       <div><strong>🥈 Rol secundario:</strong> Responsable de Planificación</div>
-      <div><strong>🎓 Estudios:</strong> Ingeniería del Software</div>
-      <div><strong>📧 Correo:</strong> <a href="mailto:tu-correo@ejemplo.com" style="color: #0969da; text-decoration: none;">tu-correo@ejemplo.com</a></div>
-      <div><strong>💬 WhatsApp:</strong> +34 000 000 000</div>
-      <div><strong>🎮 Discord:</strong> @usuario_discord</div>
+      <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> Ingeniería del Software</div>
+
+      <div style="display: flex; align-items: center;">
+        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+          <img src="../assets/img/iconos/email.png" width="18" height="18" alt="Email">
+        </div>
+        <span><strong>Correo:</strong> <a href="mailto:tu-correo@ejemplo.com" style="color: #0969da; text-decoration: none;">tu-correo@ejemplo.com</a></span>
+      </div>
+
+      <div style="display: flex; align-items: center;">
+        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+          <img src="../assets/img/iconos/whatsapp.png" width="18" height="18" alt="WhatsApp">
+        </div>
+        <span><strong>WhatsApp:</strong> +34 000 000 000</span>
+      </div>
+
+      <div style="display: flex; align-items: center;">
+        <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
+          <img src="../assets/img/iconos/discord.png" width="18" height="18" alt="Discord">
+        </div>
+        <span><strong>Discord:</strong> @usuario_discord</span>
+      </div>
+
     </div>
   </div>
 </div>
