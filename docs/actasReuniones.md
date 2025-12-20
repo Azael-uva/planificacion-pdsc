@@ -13,6 +13,8 @@ En esta sección se encuentra la información relativa a las actas de las reunio
 1. [Descarga Actas](#descarga-actas)
 2. [Reunión inicial](#reunion-inicial)
 3. [2ª Reunión](#reunion-2)
+4. [3ª Reunión](#reunion-3)
+5. [4ª Reunión](#reunion-4)
 
 ## Descarga de archivo de actas {#decarga-actas}
 [Actas reuniones (XLSX)](../assets/documentos/PlantillaActas.xlsx)
@@ -88,6 +90,73 @@ En esta sección se encuentra la información relativa a las actas de las reunio
 
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; padding: 0px;  box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
   
+  <table style="width: 100%; border-collapse: collapse; background-color: white; color: #24292e; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden;">
+    <tbody>
+      <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
+        📋 ACTA DE REUNIÓN
+      </div>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA Y HORA</b></td>
+        <td style="padding: 15px;">18/11/2025 — 10:00</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 15px; background-color: #f6f8fa;"><b>📍 LUGAR</b></td>
+        <td style="padding: 15px;">Laboratorio de la Escuela</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 15px; background-color: #f6f8fa;"><b>👥 ASISTENTES</b></td>
+        <td style="padding: 15px;">
+          <ul style="margin: 0; padding-left: 20px; line-height: 1.6;">
+            <li>Rafael Miguel Mendizabal García</li>
+            <li>Francisco Javier Juárez Gutiérrez</li>
+            <li>Azael Bastardo Rodríguez</li>
+          </ul>
+        </td>
+      </tr>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 15px; background-color: #f6f8fa;"><b>📝 ORDEN DEL DÍA</b></td>
+        <td style="padding: 15px; font-size: 0.95em;">
+          <div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
+            <div><b>1:</b> Fijar un encargado de la parte de planificación del proyecto.</div>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 15px; background-color: #f6f8fa; border-right: 1px solid #d0d7de;"><b>✅ ACUERDOS ADOPTADOS</b></td>
+        <td style="padding: 15px;">
+          <div style="display: grid; grid-template-columns: 1fr; gap: 8px;">
+            <div><b>1:</b> Azael Bastardo Rodríguez queda designado como encargado de la parte de planificación del proyecto.</div>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## 3ª Reunión {#reunion-3}
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; padding: 0px;  box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
+  
+  <table style="width: 100%; border-collapse: collapse; background-color: white; color: #24292e; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden;">
+    <tbody>
+      <div style="background-color: #cb2431; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
+        🚫 REUNIÓN CANCELADA
+      </div>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 15px; background-color: #f6f8fa; width: 25%;"><b>📅 FECHA PREVISTA</b></td>
+        <td style="padding: 15px;">24/11/2025 — 12:00</td>
+      </tr>
+      <tr>
+        <td style="padding: 15px; background-color: #f6f8fa; border-right: 1px solid #d0d7de;"><b>⚠️ MOTIVO</b></td>
+        <td style="padding: 15px; color: #cb2431; font-weight: 500;">
+          La reunión se canceló ya que los miembros del equipo no podían asistir.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+## 4ª Reunión {#reunion-4}
+
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; padding: 0px;  box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: block;">
   <table style="width: 100%; border-collapse: collapse; background-color: white; color: #24292e; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden;">
     <tbody>
       <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.2em; font-weight: bold;">
