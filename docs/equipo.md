@@ -29,7 +29,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     
     <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
       
-      <div><strong> Rol secundario:</strong> Responsable de Planificación</div>
+      <div><strong> Rol secundario:</strong> Diseño y desarrollo software</div>
       <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> 5º Indat</div>
 
       <div style="display: flex; align-items: center;">
