@@ -24,33 +24,33 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 
   <div style="flex: 2; min-width: 300px; margin-left: 10px;">
     <p style="margin: 0 0 15px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
-      🚀 Project Manager
+       Project Manager
     </p>
     
     <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
       
-      <div><strong>🥈 Rol secundario:</strong> Responsable de Planificación</div>
-      <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> Ingeniería del Software</div>
+      <div><strong> Rol secundario:</strong> Responsable de Planificación</div>
+      <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> 5º Indat</div>
 
       <div style="display: flex; align-items: center;">
         <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
           <img src="../assets/img/iconos/email.png" width="18" height="18" alt="Email">
         </div>
-        <span><strong>Correo:</strong> <a href="mailto:tu-correo@ejemplo.com" style="color: #0969da; text-decoration: none;">tu-correo@ejemplo.com</a></span>
+        <span><strong>Correo:</strong> <a href="mailto:azael.bastardo@estudiantes.uva.es" style="color: #0969da; text-decoration: none;">azael.bastardo@estudiantes.uva.es</a></span>
       </div>
 
       <div style="display: flex; align-items: center;">
         <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
           <img src="../assets/img/iconos/whatsapp.png" width="18" height="18" alt="WhatsApp">
         </div>
-        <span><strong>WhatsApp:</strong> +34 000 000 000</span>
+        <span><strong>WhatsApp:</strong> +34 69* *** **2</span>
       </div>
 
       <div style="display: flex; align-items: center;">
         <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
           <img src="../assets/img/iconos/discord.png" width="18" height="18" alt="Discord">
         </div>
-        <span><strong>Discord:</strong> @usuario_discord</span>
+        <span><strong>Discord:</strong> @a*******8</span>
       </div>
 
     </div>
