@@ -19,21 +19,21 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: start; background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   
   <div style="flex: 1; min-width: 150px; max-width: 200px;">
-    <img src="../assets/img/equipo/azael.png" alt="Azael Bastardo" style="width: 100%; border-radius: 10px; border: 1px solid #d0d7de;">
+    <img src="../assets/img/equipo/azael.png" alt="Azael Bastardo" style="width: 100%; border-radius: 10px; border: 1px solid #d0d7de; display: block;">
   </div>
 
-  <div style="flex: 2; min-width: 300px;">
+  <div style="flex: 2; min-width: 300px; margin-left: 10px;">
     <p style="margin: 0 0 15px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
       🚀 Project Manager
     </p>
     
-    <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
-      <li><strong>🥈 Rol secundario:</strong> Responsable de Planificación</li>
-      <li><strong>🎓 Estudios:</strong> Ingeniería del Software</li>
-      <li><strong>📧 Correo:</strong> <a href="mailto:tu-correo@ejemplo.com" style="color: #0969da; text-decoration: none;">tu-correo@ejemplo.com</a></li>
-      <li><strong>💬 WhatsApp:</strong> +34 000 000 000</li>
-      <li><strong>🎮 Discord:</strong> @usuario_discord</li>
-    </ul>
+    <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
+      <div><strong>🥈 Rol secundario:</strong> Responsable de Planificación</div>
+      <div><strong>🎓 Estudios:</strong> Ingeniería del Software</div>
+      <div><strong>📧 Correo:</strong> <a href="mailto:tu-correo@ejemplo.com" style="color: #0969da; text-decoration: none;">tu-correo@ejemplo.com</a></div>
+      <div><strong>💬 WhatsApp:</strong> +34 000 000 000</div>
+      <div><strong>🎮 Discord:</strong> @usuario_discord</div>
+    </div>
   </div>
 </div>
 
