@@ -26,12 +26,12 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 
     <div style="flex: 2; min-width: 300px;">
       <p style="margin: 0 0 15px 0; color: #57606a; font-weight: bold; text-transform: uppercase; font-size: 0.85em; letter-spacing: 0.5px;">
-          🚀 Project Manager
+           Project Manager
       </p>
       
       <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
-        <div><strong>🥈 Rol secundario:</strong> Diseño y desarrollo software</div>
-        <div style="margin-bottom: 5px;"><strong>🎓 Estudios:</strong> 5º Indat</div>
+        <div><strong> Rol secundario:</strong> Diseño y desarrollo software</div>
+        <div style="margin-bottom: 5px;"><strong> Estudios:</strong> 5º Indat</div>
 
         <div style="display: flex; align-items: center;">
           <div style="width: 25px; margin-right: 10px; display: flex; justify-content: center;">
