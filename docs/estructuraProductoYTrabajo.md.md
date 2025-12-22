@@ -34,6 +34,11 @@ has_toc: true
 
 [Descargar PDF](../assets/documentos/PBS.pdf)  
 [Descargar PNG](../assets/documentos/PBS.png)
+
+### Versiones anteriores
+[v1 PDF](../assets/documentos/PBS_v1.pdf)  
+[v1 PNG](../assets/documentos/PBS_v1.png)
+
 ## PFD {#pfd}
 
 ## WBS {#wbs}
