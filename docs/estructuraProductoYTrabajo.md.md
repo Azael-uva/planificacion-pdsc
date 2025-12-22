@@ -24,7 +24,7 @@ has_toc: true
 [Descargar PNG](../assets/documentos/PBS_alto_nivel.png)
 
 ### Versiones anterioires
-[v1 PDF](../assets/documentos/PBS_alto_nivel_v1.pdf)
+[v1 PDF](../assets/documentos/PBS_alto_nivel_v1.pdf)  
 [v1 PNG](../assets/documentos/PBS_alto_nivel_v1.png)
 
 ## PBS Completo {#pbs-completo}
