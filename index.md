@@ -29,7 +29,7 @@ Bienvenido al repositorio de planificación. Aquí encontrarás toda la informac
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <a href="docs/estructuraProductoYtrabajo">
+      <a href="docs/estructuraProductoYTrabajo">
         <img src="assets/img/iconos/logo_estructura_producto.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
       </a>
     </td>
