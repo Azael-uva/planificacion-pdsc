@@ -20,6 +20,9 @@ has_toc: true
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PBS_alto_nivel.pdf">Descárgalo aquí</a>.</p>
 </iframe>
 
+[Descargar PDF](#../assets/documentos/PBS_alto_nivel.pdf)  
+[Descargar PNG](#../assets/documentos/PBS_alto_nivel.png)
+
 ## PBS Completo {#pbs-completo}
 
 ## PFD {#pfd}
