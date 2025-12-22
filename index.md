@@ -8,7 +8,7 @@ description: "Página de inicio del proyecto"
   <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -90px; margin-bottom= 0px;">
 </p>
 
-# 📂 Planificación del Proyecto
+<h1 style="margin-top: 0 !important; padding-top: 0 !important;">📂 Planificación del Proyecto</h1>
 
 Bienvenido al repositorio de documentación. Aquí encontrarás toda la información relativa a la asignatura.
 
