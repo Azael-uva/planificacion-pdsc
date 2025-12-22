@@ -5,7 +5,7 @@ nav_order: 1
 description: "Página de inicio del proyecto"
 ---
 <p align="center">
-  <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -40px; margin-bottom= -20px;">
+  <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -60px; margin-bottom= -80px;">
 </p>
 
 # 📂 Planificación del Proyecto
