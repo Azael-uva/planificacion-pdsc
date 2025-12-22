@@ -9,4 +9,5 @@ search_enabled: true
 aux_links:
   "Repositorio del Proyecto":
     - "https://github.com/Azael-uva/planificacion-pdsc"
-scss: custom
+
+scss: just-the-docs-custom
