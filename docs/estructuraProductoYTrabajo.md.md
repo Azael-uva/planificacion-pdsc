@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Planificacion
+title: Estructura Prod. y Trabajo
 nav_order: 4
 has_toc: true
 ---
