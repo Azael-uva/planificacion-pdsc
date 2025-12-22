@@ -37,11 +37,12 @@ has_toc: true
 
 ### Versiones anteriores
 [v1 PDF](../assets/documentos/PBS_v1.pdf)  
-[v1 PNG](../assets/documentos/PBS_v1.png)
+[v1 PNG](../assets/documentos/PBS_v1.png)  
 [v2 PDF](../assets/documentos/PBS_v2.pdf)  
 [v2 PNG](../assets/documentos/PBS_v2.png)
 
 ## PFD {#pfd}
+Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques de diseño (arriba) y planificación (abajo). Esto no quiere decir que no haya relación entre las dos partes, de hecho todo lo contrario, al ser la planificación del propio proyecto hay mucha relación entre ambas partes (prácticamente todo los productos afectarían a alguna parte de la planificación), pero para evitar cargarlo todos de líneas y empeorar la legibilidad se ha decidido representar de esta manera.
 <iframe src="../assets/documentos/PFD.pdf" width="100%" height="450px" style="border: none;">
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PFD.pdf">Descárgalo aquí</a>.</p>
 </iframe>
