@@ -12,10 +12,6 @@ description: "Página de inicio del proyecto"
 
 Bienvenido al repositorio de documentación. Aquí encontrarás toda la información relativa a la asignatura.
 
-## 📌 Secciones Principales
-* [Cronograma de Actividade](docs/PlantillaActas.xlsx)
-* [Requisitos del Sistema](docs/requisitos.md)
-* [Carpeta de PDFs y Anexos](docs/anexos.md)
 
 
 <table style="margin-left: auto; margin-right: auto; border: none; border-collapse: collapse;">
@@ -27,19 +23,19 @@ Bienvenido al repositorio de documentación. Aquí encontrarás toda la informac
     </td>
     <td style="border: none; padding: 10px;">
       <a href="docs/actasReuniones">
-        <img src="assets/img/iconos/logo_equipo.png" class="img-click-effect" alt="Descripción 2" width="150" style="display: block; margin: auto;">
+        <img src="assets/img/iconos/logo_reuniones.png" class="img-click-effect" alt="Descripción 2" width="150" style="display: block; margin: auto;">
       </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
       <a href="docs/planificacion">
-        <img src="assets/img/iconos/logo_equipo.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
+        <img src="assets/img/iconos/logo_planificacion.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
       </a>
     </td>
     <td style="border: none; padding: 10px;">
       <a href="https://gitlab.inf.uva.es/rafmend/pdsc">
-        <img src="assets/img/iconos/logo_equipo.png" class="img-click-effect" alt="Descripción 4" width="150" style="display: block; margin: auto;">
+        <img src="assets/img/iconos/logo_gitlab.png" class="img-click-effect" alt="Descripción 4" width="150" style="display: block; margin: auto;">
       </a>
     </td>
   </tr>
