@@ -19,3 +19,25 @@ Bienvenido al repositorio de documentación. Aquí encontrarás toda la informac
 
 ---
 **Última actualización:** 18/12/2025
+
+<style>
+  /* Cambia el color principal (violeta por tu granate) */
+  :root {
+    --brand-color: #962d40 !important;
+    --link-color: #962d40 !important;
+  }
+
+  /* Cambia los enlaces del cuerpo */
+  a { color: #962d40 !important; }
+
+  /* Cambia el color del menú lateral cuando una página está activa */
+  .nav-list-link.active { color: #962d40 !important; }
+
+  /* Cambia la barrita lateral indicadora del menú */
+  .nav-list-item.active > .nav-list-link::before { 
+    background-color: #962d40 !important; 
+  }
+
+  /* Cambia el color de los botones si usas alguno */
+  .btn-primary { background-color: #962d40 !important; border-color: #962d40 !important; }
+</style>
