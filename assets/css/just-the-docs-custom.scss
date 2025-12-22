@@ -1,0 +1,15 @@
+---
+---
+// Importamos las variables del tema original
+@import "support/variables";
+
+// Sobreescribimos con tus colores
+$brand-color: #962d40;
+$link-color: #962d40;
+
+// Importamos el resto del código del tema
+@import "just-the-docs";
+
+// Forzado extra por si Jekyll se resiste
+a { color: $brand-color !important; }
+.nav-list-link.active { color: $brand-color !important; }
