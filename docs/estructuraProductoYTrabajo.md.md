@@ -5,7 +5,7 @@ nav_order: 4
 has_toc: true
 ---
 
-# 📋 Estructura de Productos y Trabajo
+# 📦 Estructura de Productos y Trabajo
 
 ## Índice
 1. [PBS alto nivel](#pbs-alto-nivel)
