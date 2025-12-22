@@ -17,7 +17,7 @@ has_toc: true
 
 ## PBS Alto Nivel {#pbs-alto-nivel}
 <iframe src="../assets/documentos/PBS_alto_nivel.pdf" width="100%" height="600px" style="border: none;">
-    <p>Tu navegador no soporta PDFs. <a href="assets/docs/tu-archivo.pdf">Descárgalo aquí</a>.</p>
+    <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PBS_alto_nivel.pdf">Descárgalo aquí</a>.</p>
 </iframe>
 
 ## PBS Completo {#pbs-completo}
