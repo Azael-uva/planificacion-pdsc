@@ -20,7 +20,7 @@ has_toc: true
 
 <div style="border: 1px solid #ddd; overflow: hidden; background: #f9f9f9; cursor: move;">
   <div id="panzoom-element">
-    <img src="assets/img/PBS_alto_nivel.png" style="width: 100%; height: auto;">
+    <img src="../assets/img/PBS_alto_nivel.png" style="width: 100%; height: auto;">
   </div>
 </div>
 
