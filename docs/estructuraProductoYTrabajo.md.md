@@ -16,7 +16,7 @@ has_toc: true
 6. [Informe final](#informe-final)
 
 ## PBS Alto Nivel {#pbs-alto-nivel}
-<iframe src="../assets/documentos/PBS_alto_nivel.pdf" width="100%" height="600px" style="border: none;">
+<iframe src="../assets/documentos/PBS_alto_nivel.pdf" width="100%" height="300x" style="border: none;">
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PBS_alto_nivel.pdf">Descárgalo aquí</a>.</p>
 </iframe>
 
