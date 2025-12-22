@@ -5,7 +5,7 @@ nav_order: 1
 description: "Página de inicio del proyecto"
 ---
 <p align="center">
-  <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -40px;">
+  <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -40px margin-bottom= -20px;">
 </p>
 
 # 📂 Planificación del Proyecto
@@ -40,6 +40,7 @@ Bienvenido al repositorio de documentación. Aquí encontrarás toda la informac
     </td>
   </tr>
 </table>
+
 ---
 **Última actualización:** 18/12/2025
 
