@@ -10,7 +10,7 @@ description: "Página de inicio del proyecto"
 
 <h1 style="margin-top: -40px !important; padding-top: 0 !important;">📂 Planificación del Proyecto</h1>
 
-Bienvenido al repositorio de documentación. Aquí encontrarás toda la información relativa a la asignatura.
+Bienvenido al repositorio de planificación. Aquí encontrarás toda la información relativa a la parte de planificación del proyecto de la asignatura.
 
 
 
