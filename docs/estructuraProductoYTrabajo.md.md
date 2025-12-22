@@ -28,7 +28,7 @@ has_toc: true
 [v1 PNG](../assets/documentos/PBS_alto_nivel_v1.png)
 
 ## PBS Completo {#pbs-completo}
-<iframe src="../assets/documentos/PBS_alto_nivel.pdf" width="100%" height="450px" style="border: none;">
+<iframe src="../assets/documentos/PBS.pdf" width="100%" height="450px" style="border: none;">
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PBS.pdf">Descárgalo aquí</a>.</p>
 </iframe>
 
