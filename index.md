@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 nav_order: 1
 description: "Página de inicio del proyecto"
----
+--- 
 <p align="center">
   <img src="assets/img/iconos/logo.png" width="300" style="margin-top: -90px; margin-bottom= 0px;">
 </p>
