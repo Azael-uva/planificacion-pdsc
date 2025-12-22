@@ -23,8 +23,17 @@ has_toc: true
 [Descargar PDF](../assets/documentos/PBS_alto_nivel.pdf)  
 [Descargar PNG](../assets/documentos/PBS_alto_nivel.png)
 
-## PBS Completo {#pbs-completo}
+### Versiones anterioires
+[v1 PDF](../assets/documentos/PBS_alto_nivel_v1.pdf)
+[v1 PNG](../assets/documentos/PBS_alto_nivel_v1.png)
 
+## PBS Completo {#pbs-completo}
+<iframe src="../assets/documentos/PBS_alto_nivel.pdf" width="100%" height="450px" style="border: none;">
+    <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PBS.pdf">Descárgalo aquí</a>.</p>
+</iframe>
+
+[Descargar PDF](../assets/documentos/PBS.pdf)  
+[Descargar PNG](../assets/documentos/PBS.png)
 ## PFD {#pfd}
 
 ## WBS {#wbs}
