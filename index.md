@@ -29,8 +29,20 @@ Bienvenido al repositorio de planificación. Aquí encontrarás toda la informac
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <a href="docs/planificacion">
-        <img src="assets/img/iconos/logo_planificacion.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
+      <a href="docs/estructuraProductoYtrabajo">
+        <img src="assets/img/iconos/logo_estructura_producto.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
+      </a>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <a href="docs/informeDesarrollo">
+        <img src="assets/img/iconos/logo_informe.png" class="img-click-effect" alt="Descripción 4" width="150" style="display: block; margin: auto;">
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <a href="docs/cierreProyecto">
+        <img src="assets/img/iconos/logo_cierre.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
       </a>
     </td>
     <td style="border: none; padding: 10px;">
