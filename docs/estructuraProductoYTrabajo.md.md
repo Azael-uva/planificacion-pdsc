@@ -38,8 +38,16 @@ has_toc: true
 ### Versiones anteriores
 [v1 PDF](../assets/documentos/PBS_v1.pdf)  
 [v1 PNG](../assets/documentos/PBS_v1.png)
+[v2 PDF](../assets/documentos/PBS_v2.pdf)  
+[v2 PNG](../assets/documentos/PBS_v2.png)
 
 ## PFD {#pfd}
+<iframe src="../assets/documentos/PFD.pdf" width="100%" height="450px" style="border: none;">
+    <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PFD.pdf">Descárgalo aquí</a>.</p>
+</iframe>
+
+[Descargar PDF](../assets/documentos/PFD.pdf)  
+[Descargar PNG](../assets/documentos/PFD.png)
 
 ## WBS {#wbs}
 
