@@ -39,7 +39,7 @@ has_toc: true
 [v1 PDF](../assets/documentos/PBS_v1.pdf)  
 [v1 PNG](../assets/documentos/PBS_v1.png)  
 [v2 PDF](../assets/documentos/PBS_v2.pdf)  
-[v2 PNG](../assets/documentos/PBS_v2.png)
+[v2 PNG](../assets/documentos/PBS_v2.png)  
 [v3 PDF](../assets/documentos/PBS_v3.pdf)  
 [v3 PNG](../assets/documentos/PBS_v3.png)
 ## PFD {#pfd}
@@ -58,7 +58,12 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 [v1 PDF](../assets/documentos/PFD_v1.pdf)  
 [v1 PNG](../assets/documentos/PFD_v1.png)
 ## WBS {#wbs}
+<iframe src="../assets/documentos/WBS.pdf" width="100%" height="450px" style="border: none;">
+    <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/WBS.pdf">Descárgalo aquí</a>.</p>
+</iframe>
 
+[Descargar PDF](../assets/documentos/WBS.pdf)  
+[Descargar SVG](../assets/documentos/WBS.png)  
 ## Diagrama de Actividades (red de precedencia) {#actividades}
 
 ## Informe Final {#informe-final}
