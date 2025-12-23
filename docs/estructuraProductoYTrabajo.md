@@ -64,8 +64,16 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 
 [Descargar PDF](../assets/documentos/WBS.pdf)  
 [Descargar SVG](../assets/documentos/WBS.svg)  
+### Versiones anteriores
+[v1 PDF](../assets/documentos/WBS_v1.pdf)  
+[v1 SVG](../assets/documentos/WBS_v1.svg)
 ## Diagrama de Actividades (red de precedencia) {#actividades}
+<iframe src="../assets/documentos/PERT.pdf" width="100%" height="600px" style="border: none;">
+    <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PERT.pdf">Descárgalo aquí</a>.</p>
+</iframe>
 
+[Descargar PDF](../assets/documentos/PERT.pdf)  
+[Descargar SVG](../assets/documentos/PERT.svg)  
 ## Informe Final {#informe-final}
 
 
