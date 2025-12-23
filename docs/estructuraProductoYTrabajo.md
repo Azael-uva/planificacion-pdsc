@@ -58,7 +58,7 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 [v1 PDF](../assets/documentos/PFD_v1.pdf)  
 [v1 PNG](../assets/documentos/PFD_v1.png)
 ## WBS {#wbs}
-<iframe src="../assets/documentos/WBS.pdf" width="100%" height="450px" style="border: none;">
+<iframe src="../assets/documentos/WBS.pdf" width="100%" height="600px" style="border: none;">
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/WBS.pdf">Descárgalo aquí</a>.</p>
 </iframe>
 
