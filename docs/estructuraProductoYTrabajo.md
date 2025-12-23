@@ -63,7 +63,7 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 </iframe>
 
 [Descargar PDF](../assets/documentos/WBS.pdf)  
-[Descargar SVG](../assets/documentos/WBS.png)  
+[Descargar SVG](../assets/documentos/WBS.svg)  
 ## Diagrama de Actividades (red de precedencia) {#actividades}
 
 ## Informe Final {#informe-final}
