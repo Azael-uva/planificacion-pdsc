@@ -40,7 +40,8 @@ has_toc: true
 [v1 PNG](../assets/documentos/PBS_v1.png)  
 [v2 PDF](../assets/documentos/PBS_v2.pdf)  
 [v2 PNG](../assets/documentos/PBS_v2.png)
-
+[v3 PDF](../assets/documentos/PBS_v3.pdf)  
+[v3 PNG](../assets/documentos/PBS_v3.png)
 ## PFD {#pfd}
 
 <div style="text-align: justify;">
@@ -52,8 +53,10 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 </iframe>
 
 [Descargar PDF](../assets/documentos/PFD.pdf)  
-[Descargar PNG](../assets/documentos/PFD.png)
-
+[Descargar PNG](../assets/documentos/PFD.png)  
+### Versiones anteriores
+[v1 PDF](../assets/documentos/PFD_v1.pdf)  
+[v1 PNG](../assets/documentos/PFD_v1.png)
 ## WBS {#wbs}
 
 ## Diagrama de Actividades (red de precedencia) {#actividades}
