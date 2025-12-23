@@ -74,6 +74,25 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 
 [Descargar PDF](../assets/documentos/PERT.pdf)  
 [Descargar SVG](../assets/documentos/PERT.svg)  
-## Informe Final {#informe-final}
+## Informe Final {#informe-final}  
+<div style="text-align: justify;">
+
+Tras haber realizado toda esta parte de la parte de planificación relacionada con las estructura de productos y trabajo nos gustaría destacar tres ideas principales:
+
+<ol>
+  <li style="margin-bottom: 15px;">
+    Los diagramas desarrollados en este apartado son de bastante utilidad a la hora de llevar a cabo un proyecto. Gracias a diagramas como el PBS o el PFD puede identificar de forma rápida el “¿qué hay que entregar?”, se podría decir que es un resumen del enunciado de la práctica de forme que rápidamente sabes lo que se pide. Por otro lado, diagramas como el WBS o la red de actividades te ayudan a saber que hay que hacer para poder conseguir esos entregables. Esto nos ha resultado útil para organizar al equipo de forma más eficiente y poder repartir el trabajo.
+  </li>
+  
+  <li style="margin-bottom: 15px;">
+    Lo curioso que es tener al mismo tiempo dentro de la planificación elementos del proyecto en sí y elementos de la propia planificación como entregables. Al tener que incluir entregables de la propia planificación dentro de la planificación hay que tener cuidado a la hora de hacer los diagramas. Sobre todo, en diagramas como el PFD o la red de actividades en los que se muestran dependencias entre productos y actividades respectivamente. En nuestro caso, hemos optado por poner un alto margen en estas dependencias, ya que en cierto modo toda la parte de diseño depende de lo elaborado en la parte de planificación. Además en ocasiones te encuentras con actividades o productos que si nos pusiéramos estrictos podrían llegar a depender de sí mismos. Por ejemplo, de forma estricta, los contenidos de entregables como la tabla de tiempos dependen de todo lo demás, incluso de ella misma, ya que la elaboración de la tabla de tiempos es una actividad con una duración. Por eso hemos optado por desacoplar las partes de planificación y diseño para evitar llenar todos de flechas. En su lugar, hemos optado por representar solo las dependencias más fuertes.
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    Por último, nos ha parecido interesante el hecho de que en realidad todos estos elementos son cosas que ya hemos realizado en otros proyectos, simplemente que de forma inconsciente y sin documentarlo. A lo largo de la carrera, hemos tenido decenas de proyectos. En todos ellos siempre tienes que identificar que tienes que entregar  y a lo largo del proyecto siempre se reparten tareas o se identifican actividades a realizar para conseguir los objetivos que se piden.
+  </li>
+</ol>
+
+</div>
 
 
