@@ -272,18 +272,15 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
   </p>
 
   <ul style="list-style-type: disc; margin-left: 35px; padding-left: 5px;">
-    <li style="margin-bottom: 8px;">Diseño de todos los diagramas UML pedidos [cite: 3, 7]</li>
-    <li style="margin-bottom: 8px;">Implementación de los casos de uso pedidos </li>
-    <li style="margin-bottom: 8px;">Desplegar la aplicación usando <strong>Java Spring Boot</strong> [cite: 1, 13]</li>
-    <li style="margin-bottom: 8px;">Desarrollar una <strong>interfaz gráfica</strong> para la aplicación (en lugar de línea de comandos) </li>
+    <li style="margin-bottom: 8px;">Diseño de todos los diagramas UML pedidos</li>
+    <li style="margin-bottom: 8px;">Implementación de los casos de uso pedidos</li>
+    <li style="margin-bottom: 8px;">Desplegar la aplicación usando Java Sping Boot</li>
+    <li style="margin-bottom: 8px;">Desarrollar una interfaz gráfica para la aplicación (en lugar de línea de comandos)</li>
     <li style="margin-bottom: 8px;">Desarrollar la página Web de planificación con toda la información pedida </li>
-    <li style="margin-bottom: 8px;">Rellenar todas las plantillas de planificación pedidas [cite: 6, 7]</li>
+    <li style="margin-bottom: 8px;">Rellenar todas las plantillas de planificación pedidas</li>
     <li style="margin-bottom: 8px;">Crear todos los documentos pedidos en planificación </li>
+    <li>Terminar el proyecto un día antes (26/12/2025) para evitar imprevistos y tener un día de reserva.</li>
   </ul>
-
-  <p>
-    Cabe destacar que se ha logrado <strong>terminar el proyecto un día antes (26/12/2025)</strong> para evitar imprevistos y tener un día de reserva antes de la fecha final establecida.
-  </p>
 
 </div>
 
