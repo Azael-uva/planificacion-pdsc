@@ -112,3 +112,13 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
     </tbody>
   </table>
 </div>
+
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+ Como todas las tecnologías empleadas son Open Source su coste es de 0€. Además, la Universidad de Valladolid ha cedido una máquina virtual para hacer el despliegue de la aplicación. Por lo tanto, su coste también es de 0€.
+</p>
+
+<p>
+ No obstante, si suponemos que este proyecto se llevase a cabo por una empresa (entorno real) tendríamos que tener en cuenta algunos costes materiales. Por ejemplo, tendría que dar a los empleados ordenadores para realizar su trabajo+periféricos+monitores (unos 700€ cada equipo, luego 700*4=2800€). También había que tener en cuenta que ya no dispondríamos de la máquina virtual para desplegar la aplicación. En ese caso, necesitaríamos un Hosting VPS además de pagar por el dominio. Esto supondría unos 50€ a lo largo de este periodo de tiempo.
+</p>
+</div>
