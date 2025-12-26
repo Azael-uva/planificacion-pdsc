@@ -119,4 +119,36 @@ has_toc: true
 </div>
 
 ## Riegos y Conflictos {#riesgos}  
-## Informe Final {#informe-final}
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+
+  <p>
+    A lo largo del desarrollo del proyecto podemos destacar dos tipos de riegos que se han materializado: riesgos relacionados con la disponibilidad de los trabajadores y riesgos relacionados con la experiencia del equipo de desarrollo. No obstante, cabe decir que ninguno de estos riesgos ha resultado crítico para completar el proyecto y cumplir con los objetivos pedidos. 
+  </p>
+
+  <ul style="list-style-type: disc; margin-left: 30px; padding-left: 10px;">
+    <li style="margin-bottom: 15px;">
+      <strong>Riesgos relacionados con la disponibilidad de los trabajadores:</strong> en este apartado se han materializado varios riesgos. En primer lugar, Francisco Javier no estuvo disponible la segunda semana por enfermedad. Lo mismo le pasó a Rafael en la cuarta semana. Teniendo en cuenta que estamos hablando de un proyecto desarrollado en 6 semanas y por 4 personas, tener dos semanas con un trabajador de baja afecta bastante a la capacidad de producción. Por otro lado, hay que tener en cuenta que este proyecto se ha realizado en la parte final del curso. Por ello, situaciones como exámenes/trabajos de otras asignaturas también han afectado de forma negativa a la capacidad de trabajo. Todo esto en conjunto ha provocado que no se pueda tener una dedicación continuada al proyecto. Para hacer frente a estas situaciones hemos fragmentado más las tareas para poder trabajar de forma simultánea y avanzar con mayor rapidez. También se han tenido que realizar jornadas intensivas en el periodo final de tiempo para sacar el proyecto adelante. Por último, decir que se consiguió negociar un atraso en la fecha de entrega con el cliente pasando del 19/12/2025 al 27/12/2025.
+    </li>
+    
+    <li style="margin-bottom: 15px;">
+      <strong>Riesgos relacionados con la experiencia del equipo de desarrollo:</strong> muchas de las tecnologías utilizadas para desarrollar el proyecto no las habíamos usado anteriormente. Por ejemplo, Java Spring Boot, GitHub Pages o Lucidspark. Esto ha provocado que se tarde más tiempo en completar algunas tareas o que los errores sean más frecuentes. Para intentar remediar esta situación, hemos hecho que cada miembro del equipo se especialice en un apartado (aprender mucho de todo no es viable, pero sí aprender de una parte). De esta forma, cada uno podía coger mayor soltura en sus tareas, aumentando la productividad y reduciendo los errores.
+    </li>
+  </ul>
+
+  <p>
+    Finalmente, comentar que a pesar de estos riesgos el proyecto se ha conseguido completar de forma satisfactoria en el plazo otorgado. También hay que decir que al ser un proyecto de una asignatura no estamos expuestos a otros tipos de riesgos como los de carácter económico que a menudo son los más graves para el proyecto.
+  </p>
+
+</div>
+
+## Informe Final {#informe-final}  
+
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+  En esta sección hemos visto, básicamente, cómo se ha desarrollado el proyecto semana a semana, las reuniones realizadas y los riesgos que se han materializado. Después de todo lo que se ha visto nos gustaría resaltar cómo ha evolucionado el proyecto con el transcurso del tiempo.
+</p>
+
+<p>
+  A diferencia de una empresa, donde los trabajadores suelen tener el foco puesto en un proyecto, hay que tener en cuenta que el proyecto se ha desarrollado en una asignatura al final del cuatrimestre. Esto hace que se junte con otros trabajos y exámenes, de tal forma que a veces hay que aceptar que no se puede trabajar en él. Esto provoca que el esfuerzo, en lugar de estar repartido durante todo el periodo de tiempo disponible de forma uniforme, se concentre en pocas jornadas de muchas horas. Esto provoca que la planificación semana a semana no sea a lo mejor tan atractiva, ya que hay semanas en las que no se avanza prácticamente nada, mientras que en otras semanas se hace una gran parte del proyecto. En nuestro caso podemos destacar la semana 3, el final de la semana 5 y la semana 6 como las etapas en las que se concentra la mayoría del esfuerzo. Aunque hay equipos a los que este tipo de planificación puede no darles resultados (largas jornadas y pocos días) nosotros la encontramos como la que mejor cuadra con nuestras características y disponibilidad. Una de las ventajas que encontramos a este tipo de desarrollo es que te focalizas completamente en un tipo de proyecto, cogiendo una mayor soltura y mejorando así la productividad. No obstante, también hay que tener cuenta que este tipo de planificación también tiene defectos. Por ejemplo, puede favorecer la aparición del burn out en los trabajadores.
+</p>
+</div>
