@@ -126,55 +126,126 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 ## Tiempos {#tiempos}
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.1em; font-weight: bold;">
-    📅 4.2 TABLA DE TIEMPOS (DURACIÓN VS ESFUERZO)
-  </div>
-  <table style="width: 100%; border-collapse: collapse; background-color: white; color: #24292e;">
+<div class="fases-container">
+  <style>
+    .fases-container {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      max-width: 900px;
+      margin: 25px auto;
+      border: 1.5px solid #24292e;
+      border-radius: 4px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .fases-table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: white;
+    }
+    .fases-table th {
+      background-color: #fff2cc; /* Color crema del encabezado */
+      color: #000;
+      padding: 12px;
+      text-align: center;
+      border: 1px solid #24292e;
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+    .fases-table td {
+      padding: 10px 15px;
+      border: 1px solid #24292e;
+      color: #000;
+      font-size: 0.95em;
+    }
+    /* Estilo para las etiquetas de las fases (columna 1) */
+    .fase-label {
+      font-weight: bold;
+      text-align: center;
+      background-color: #fff2cc;
+    }
+    .data-cell {
+      text-align: center;
+    }
+    /* Colores para las sumas finales */
+    .suma-row-label {
+      background-color: #bf8f00; /* Dorado oscuro */
+      color: white !important;
+      font-weight: bold;
+      text-align: left;
+    }
+    .suma-row-data {
+      background-color: #bf8f00;
+      color: white !important;
+      font-weight: bold;
+      text-align: center;
+    }
+    /* Alternancia de color suave para filas */
+    .fases-table tr:nth-child(even) {
+      background-color: #fdfdfd;
+    }
+  </style>
+
+  <table class="fases-table">
     <thead>
-      <tr style="background-color: #f6f8fa; border-bottom: 2px solid #d0d7de;">
-        <th style="padding: 12px; text-align: left;">Fase del Proyecto</th>
-        <th style="padding: 12px; text-align: center;">Duración (Reloj)</th>
-        <th style="padding: 12px; text-align: center;">Esfuerzo (PERT)</th>
-        <th style="padding: 12px; text-align: left;">Observaciones de Equipo</th>
+      <tr>
+        <th>Fase</th>
+        <th>Duración (horas)</th>
+        <th>Esfuerzo (horas)</th>
+        <th>Observaciones</th>
       </tr>
     </thead>
     <tbody>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">1. Iniciación y Análisis</td>
-        <td style="padding: 12px; text-align: center;">5 h</td>
-        <td style="padding: 12px; text-align: center;">14 h</td>
-        <td style="padding: 12px; font-size: 0.9em;">Revisión de enunciados y decisiones iniciales realizadas de forma conjunta.</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">2. Diseño de Modelos UML</td>
-        <td style="padding: 12px; text-align: center;">10 h</td>
-        <td style="padding: 12px; text-align: center;">28 h</td>
-        <td style="padding: 12px; font-size: 0.9em;">Paralelización de diagramas de secuencia y clases por diferentes responsables.</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">3. Planificación Detallada</td>
-        <td style="padding: 12px; text-align: center;">15 h</td>
-        <td style="padding: 12px; text-align: center;">22 h</td>
-        <td style="padding: 12px; font-size: 0.9em;">Elaboración de WBS, PBS y Red de Actividades (Principalmente PM).</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">4. Ejecución (Casos de Uso)</td>
-        <td style="padding: 12px; text-align: center;">24 h</td>
-        <td style="padding: 12px; text-align: center;">101 h</td>
-        <td style="padding: 12px; font-size: 0.9em;">Ejemplo: El Caso Auxiliar dura 10h reales pero supone 30h de esfuerzo al trabajar 3 personas.</td>
+      <tr>
+        <td class="fase-label">Inicio</td>
+        <td class="data-cell">2</td>
+        <td class="data-cell">8</td>
+        <td>Común a todo, decisiones iniciales</td>
       </tr>
       <tr>
-        <td style="padding: 12px; font-weight: bold;">5. Cierre y Documentación</td>
-        <td style="padding: 12px; text-align: center;">10 h</td>
-        <td style="padding: 12px; text-align: center;">25 h</td>
-        <td style="padding: 12px; font-size: 0.9em;">Pruebas de sistema coordinadas y agrupación de informes finales.</td>
+        <td class="fase-label">Desarrollo Web (P)</td>
+        <td class="data-cell">9</td>
+        <td class="data-cell">9</td>
+        <td>Creación de la página Web</td>
       </tr>
-      <tr style="background-color: #f0f7ff; font-weight: bold; border-top: 2px solid #0969da;">
-        <td style="padding: 12px; text-align: right;">TOTALES ACUMULADOS</td>
-        <td style="padding: 12px; text-align: center;">~64 h</td>
-        <td style="padding: 12px; text-align: center; color: #0969da;">190 h</td>
-        <td style="padding: 12px; font-size: 0.85em;">Esfuerzo total consistente con la Red PERT y el presupuesto[cite: 12].</td>
+      <tr>
+        <td class="fase-label">Diagramas UML (D)</td>
+        <td class="data-cell">10</td>
+        <td class="data-cell">40</td>
+        <td>Realización de los diagramas pedidos en la parte de diseño</td>
+      </tr>
+      <tr>
+        <td class="fase-label">Planificación Detallada (P)</td>
+        <td class="data-cell">23</td>
+        <td class="data-cell">23</td>
+        <td>PBS, PFD, WBS...</td>
+      </tr>
+      <tr>
+        <td class="fase-label">Implementación (D)</td>
+        <td class="data-cell">27</td>
+        <td class="data-cell">81</td>
+        <td>Desarrollo del código de la aplicación</td>
+      </tr>
+      <tr>
+        <td class="fase-label">Cierre Planificación (P)</td>
+        <td class="data-cell">11</td>
+        <td class="data-cell">14</td>
+        <td>Creación de documentación final y subida de archivos a la Web</td>
+      </tr>
+      <tr>
+        <td class="fase-label">Cierre Diseño (D)</td>
+        <td class="data-cell">5</td>
+        <td class="data-cell">5</td>
+        <td>Revisar y probar</td>
+      </tr>
+      <tr>
+        <td class="suma-row-label">Suma Planificación</td>
+        <td class="suma-row-data">45</td>
+        <td colspan="2" style="border: none; background: white;"></td>
+      </tr>
+      <tr>
+        <td class="suma-row-label">Suma Diseño</td>
+        <td class="suma-row-data">44</td>
+        <td colspan="2" style="border: none; background: white;"></td>
       </tr>
     </tbody>
   </table>
