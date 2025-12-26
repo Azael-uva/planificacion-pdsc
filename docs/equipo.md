@@ -454,3 +454,106 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 
 ---
 ## Trabajo Asignado {#tareas}
+<style>
+    .elegant-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 25px 0;
+        font-size: 0.9em;
+        font-family: sans-serif;
+        min-width: 400px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    }
+    .elegant-table thead tr {
+        background-color: #2c3e50;
+        color: #ffffff;
+        text-align: left;
+    }
+    .elegant-table th, .elegant-table td {
+        padding: 12px 15px;
+        border: 1px solid #dddddd;
+    }
+    .elegant-table tbody tr {
+        border-bottom: 1px solid #dddddd;
+    }
+    .elegant-table tbody tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+    }
+    .elegant-table tbody tr:last-of-type {
+        border-bottom: 2px solid #2c3e50;
+        font-weight: bold;
+        background-color: #ecf0f1;
+    }
+    .elegant-table tbody tr:hover {
+        background-color: #f1c40f22;
+        transition: 0.3s;
+    }
+    .text-center { text-align: center; }
+</style>
+
+<table class="elegant-table">
+    <thead>
+        <tr>
+            <th>Tarea</th>
+            <th class="text-center">Azael (horas)</th>
+            <th class="text-center">Rafael (horas)</th>
+            <th class="text-center">Francisco Javier (horas)</th>
+            <th class="text-center">Isabel (horas)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td>Documentar Decisiones Iniciales</td><td class="text-center">2</td><td class="text-center">2</td><td class="text-center">2</td><td class="text-center">2</td></tr>
+        <tr><td>Revisar Enunciado Caso 1</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Desarrollar Sección Inicio</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Diseñar Diagrama Clases Caso 1</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Secuencia Caso 1</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Enunciado Caso 2</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Desarrollar Sección Reuniones</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Diseñar Diagrama Clases Caso 2</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Secuencia Caso 2</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Desarrollar Sección Equipo</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Enunciado Caso Auxiliar</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Clases Caso Auxiliar</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Secuencia Caso Auxiliar</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Desarrollar Sección Estructura Prod.</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Diseñar Diagrama C&C</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Despliegue</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">1</td></tr>
+        <tr><td>Diseñar Diagrama Data Model</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">2</td></tr>
+        <tr><td>Diseñar Diagrama Uses Style</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Diseñar Diagrama Decomposition Style</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Diseñar Diagrama Inheritance</td><td class="text-center">---</td><td class="text-center">2</td><td class="text-center">2</td><td class="text-center">---</td></tr>
+        <tr><td>Desarrollar Sección de Informes de Desarrollo</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Desarrollar Sección Cierre del Proyecto</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Implementar Caso de Uso Auxiliar</td><td class="text-center">---</td><td class="text-center">10</td><td class="text-center">10</td><td class="text-center">10</td></tr>
+        <tr><td>Probar Caso de Uso Auxiliar</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Definir PBS Alto Nivel</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Definir PBS Completo</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Rellenar Plantilla Excel</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Especificar Roles Miembros</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Implementar Caso de Uso 1</td><td class="text-center">---</td><td class="text-center">7</td><td class="text-center">7</td><td class="text-center">7</td></tr>
+        <tr><td>Probar Caso de Uso 1</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Identificar Riesgos y Conflictos</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Documentar Actas Reuniones</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Escribir Informes Semanales</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Definir PFD</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Definir WBS</td><td class="text-center">4</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Crear Red de Actividades</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Documentar Tareas Asignadas</td><td class="text-center">2</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Implementar Caso de Uso 2</td><td class="text-center">---</td><td class="text-center">7</td><td class="text-center">7</td><td class="text-center">7</td></tr>
+        <tr><td>Probar Caso de Uso 2</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Estimar Costes</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Definir Tabla de Tiempos</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Objetivos Cumplidos</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">1</td></tr>
+        <tr><td>Desarrollar Frontend</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">5</td></tr>
+        <tr><td>Revisar Caso 1</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Caso 2</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Agrupar Documentos en Informe Final</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Requisitos del Enunciado</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Caso Auxiliar</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Sistema</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Agrupar Diagramas en Informe PDF</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
+        <tr><td>Subir Archivos Documentación</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td>Revisar Especificaciones del Enunciado</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
+        <tr><td><strong>Total (horas)</strong></td><td class="text-center"><strong>55</strong></td><td class="text-center"><strong>45</strong></td><td class="text-center"><strong>45</strong></td><td class="text-center"><strong>45</strong></td></tr>
+    </tbody>
+</table>
