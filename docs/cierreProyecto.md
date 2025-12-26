@@ -7,6 +7,15 @@ has_toc: true
 
 # 🏁 Cierre del Proyecto
 
+## Índice
+1. [Costes](#costes)
+2. [Tiempos](#tiempos)
+3. [Cumplimiento Objetivos](#objetivos)
+
+## Costes {#costes}  
+
+En este caso nuestros costes se reducen esencialmente a los costes del personal.
+
 <div class="costes-container">
   <style>
     .costes-container {
@@ -96,26 +105,10 @@ has_toc: true
         <td class="text-center">18€</td>
         <td class="text-right currency">810€</td>
       </tr>
-      <tr>
-        <td>Equipamiento (4 Equipos + Periféricos)</td>
-        <td class="text-center">---</td>
-        <td class="text-center">700€/ud</td>
-        <td class="text-right currency">2.800€*</td>
-      </tr>
-      <tr>
-        <td>Hosting VPS + Dominio</td>
-        <td class="text-center">---</td>
-        <td class="text-center">Global</td>
-        <td class="text-right currency">50€*</td>
-      </tr>
       <tr class="costes-total-row">
-        <td colspan="3">TOTAL COSTES PERSONALES (REALES)</td>
+        <td colspan="3">TOTAL COSTES PERSONALES</td>
         <td class="text-right currency">3.730€</td>
       </tr>
     </tbody>
   </table>
-  <div style="padding: 10px; font-size: 0.8em; color: #57606a; font-style: italic; background: #f6f8fa;">
-    * Los costes materiales se han estimado para un entorno empresarial real[cite: 16]. 
-    En el desarrollo actual, el coste material ha sido de 0€ gracias a la cesión de infraestructura por la UVa y el uso de software Open Source[cite: 13, 14, 15].
-  </div>
 </div>
