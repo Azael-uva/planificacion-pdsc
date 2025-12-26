@@ -258,6 +258,12 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
   </table>
 </div>
 
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+ Por lo tanto, el camino crítico es el correspondiente a la parte de planificación y el proyecto dura 45h. No obstante, hay que destacar que ambos caminos están bastante balanceados. También hay que destacar la diferencia entre el esfuerzo (en total 190 horas) y la duración en reloj del proyecto (45 horas). Esto se produce porque varios miembros del equipo participan de forma simultánea en algunas tareas. Además, muchas tareas se pueden realizar de forma paralela.
+</p>
+</div>
+
 ## Cumplimiento Objetivos {#objetivos}  
 ## Dificultades, Desviaciones e Interés Futuro {#dificultades}
 
