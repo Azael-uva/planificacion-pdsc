@@ -67,7 +67,10 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 ### Versiones anteriores
 [v1 PDF](../assets/documentos/WBS_v1.pdf)  
 [v1 SVG](../assets/documentos/WBS_v1.svg)
-## Diagrama de Actividades (red de precedencia) {#actividades}
+## Diagrama de Actividades (red de precedencia) {#actividades}  
+
+Aclarar que esfuerzo no es lo mismo que duración en el caso de la participación de varios roles en una misma actividad. Un esfuerzo de 30h no quiere decir que la tarea se haya prolongado esa cantidad en el tiempo, simplemente, puede ser que tres personas diferentes le hayan dedicado 10h. Esto se puede ver desglosado en la tabla de asignación de trabajo en la sección equipo.
+
 <iframe src="../assets/documentos/PERT.pdf" width="100%" height="600px" style="border: none;">
     <p>Tu navegador no soporta PDFs. <a href="../assets/documentos/PERT.pdf">Descárgalo aquí</a>.</p>
 </iframe>
