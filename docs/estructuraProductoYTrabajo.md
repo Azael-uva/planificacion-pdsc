@@ -74,6 +74,9 @@ Se puede ver que está dividido en 2 grupos, estos corresponden con los bloques 
 
 [Descargar PDF](../assets/documentos/PERT.pdf)  
 [Descargar SVG](../assets/documentos/PERT.svg)  
+### Versiones anteriores
+[v1 PDF](../assets/documentos/PERT_v1.pdf)    
+[v1 SVG](../assets/documentos/PERT_v1.svg)  
 ## Informe Final {#informe-final}  
 <div style="text-align: justify;">
 
