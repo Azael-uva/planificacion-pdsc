@@ -22,7 +22,7 @@ En esta sección se encuentra la información relativa a las actas de las reunio
 11. [10ª Reunión](#reunion-10)
 12. [Reunión Final](#reunion-final)
 
-## Descarga de archivo de actas {#decarga-actas}
+## Descarga de archivo de actas {#descarga-actas}
 [Actas reuniones (XLSX)](../assets/documentos/PlantillaActas.xlsx)
 
 ## Reunión inicial del proyecto  {#reunion-inicial}
