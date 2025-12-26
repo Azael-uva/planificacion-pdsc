@@ -22,15 +22,15 @@ Bienvenido al repositorio de planificación. Aquí encontrarás toda la informac
       </a>
     </td>
     <td style="border: none; padding: 10px;">
-      <a href="docs/actasReuniones">
-        <img src="assets/img/iconos/logo_reuniones.png" class="img-click-effect" alt="Descripción 2" width="150" style="display: block; margin: auto;">
+      <a href="docs/estructuraProductoYTrabajo">
+        <img src="assets/img/iconos/logo_estructura_producto.png" class="img-click-effect" alt="Descripción 2" width="150" style="display: block; margin: auto;">
       </a>
     </td>
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <a href="docs/estructuraProductoYTrabajo">
-        <img src="assets/img/iconos/logo_estructura_producto.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
+      <a href="docs/actasReuniones">
+        <img src="assets/img/iconos/logo_reuniones.png" class="img-click-effect" alt="Descripción 3" width="150" style="display: block; margin: auto;">
       </a>
     </td>
     <td style="border: none; padding: 10px;">
