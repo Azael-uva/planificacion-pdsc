@@ -128,46 +128,53 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 900px; margin: 20px auto; border: 1px solid #d0d7de; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <div style="background-color: #24292e; color: white; padding: 15px; text-align: center; font-size: 1.1em; font-weight: bold;">
-    📅 TABLA DE TIEMPOS BASADA EN RED PERT
+    📅 4.2 TABLA DE TIEMPOS (DURACIÓN VS ESFUERZO)
   </div>
   <table style="width: 100%; border-collapse: collapse; background-color: white; color: #24292e;">
     <thead>
       <tr style="background-color: #f6f8fa; border-bottom: 2px solid #d0d7de;">
-        <th style="padding: 12px; text-align: left; width: 25%;">Bloque de la Red</th>
-        <th style="padding: 12px; text-align: left; width: 40%;">Tareas Críticas Asociadas</th>
-        <th style="padding: 12px; text-align: center; width: 15%;">Semanas</th>
-        <th style="padding: 12px; text-align: center; width: 20%;">Esfuerzo Acumulado</th>
+        <th style="padding: 12px; text-align: left;">Fase del Proyecto</th>
+        <th style="padding: 12px; text-align: center;">Duración (Reloj)</th>
+        <th style="padding: 12px; text-align: center;">Esfuerzo (PERT)</th>
+        <th style="padding: 12px; text-align: left;">Observaciones de Equipo</th>
       </tr>
     </thead>
     <tbody>
       <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">Fase Inicial</td>
-        <td style="padding: 12px; font-size: 0.9em;">Documentar decisiones, revisar enunciados (Caso 1, 2 y Auxiliar) e inicio de secciones web.</td>
-        <td style="padding: 12px; text-align: center;">1 - 2</td>
-        <td style="padding: 12px; text-align: center;">14 Horas</td>
+        <td style="padding: 12px; font-weight: bold;">1. Iniciación y Análisis</td>
+        <td style="padding: 12px; text-align: center;">5 h</td>
+        <td style="padding: 12px; text-align: center;">14 h</td>
+        <td style="padding: 12px; font-size: 0.9em;">Revisión de enunciados y decisiones iniciales realizadas de forma conjunta.</td>
       </tr>
       <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">Diseño de Modelos</td>
-        <td style="padding: 12px; font-size: 0.9em;">Diagramas de Clases, Secuencia y Arquitectura (C&C, Despliegue, Data Model, Inheritance).</td>
-        <td style="padding: 12px; text-align: center;">3 - 4</td>
-        <td style="padding: 12px; text-align: center;">28 Horas</td>
+        <td style="padding: 12px; font-weight: bold;">2. Diseño de Modelos UML</td>
+        <td style="padding: 12px; text-align: center;">10 h</td>
+        <td style="padding: 12px; text-align: center;">28 h</td>
+        <td style="padding: 12px; font-size: 0.9em;">Paralelización de diagramas de secuencia y clases por diferentes responsables.</td>
       </tr>
       <tr style="border-bottom: 1px solid #d0d7de;">
-        <td style="padding: 12px; font-weight: bold;">Planificación Detallada</td>
-        <td style="padding: 12px; font-size: 0.9em;">Definición de PBS, PFD, WBS, identificación de riesgos y creación de la Red de Actividades.</td>
-        <td style="padding: 12px; text-align: center;">5</td>
-        <td style="padding: 12px; text-align: center;">22 Horas</td>
+        <td style="padding: 12px; font-weight: bold;">3. Planificación Detallada</td>
+        <td style="padding: 12px; text-align: center;">15 h</td>
+        <td style="padding: 12px; text-align: center;">22 h</td>
+        <td style="padding: 12px; font-size: 0.9em;">Elaboración de WBS, PBS y Red de Actividades (Principalmente PM).</td>
+      </tr>
+      <tr style="border-bottom: 1px solid #d0d7de;">
+        <td style="padding: 12px; font-weight: bold;">4. Ejecución (Casos de Uso)</td>
+        <td style="padding: 12px; text-align: center;">24 h</td>
+        <td style="padding: 12px; text-align: center;">101 h</td>
+        <td style="padding: 12px; font-size: 0.9em;">Ejemplo: El Caso Auxiliar dura 10h reales pero supone 30h de esfuerzo al trabajar 3 personas.</td>
       </tr>
       <tr>
-        <td style="padding: 12px; font-weight: bold;">Ejecución y Cierre</td>
-        <td style="padding: 12px; font-size: 0.9em;">Implementación y pruebas de Casos de Uso, Frontend y consolidación de documentación final.</td>
-        <td style="padding: 12px; text-align: center;">5 - 6</td>
-        <td style="padding: 12px; text-align: center;">126 Horas</td>
+        <td style="padding: 12px; font-weight: bold;">5. Cierre y Documentación</td>
+        <td style="padding: 12px; text-align: center;">10 h</td>
+        <td style="padding: 12px; text-align: center;">25 h</td>
+        <td style="padding: 12px; font-size: 0.9em;">Pruebas de sistema coordinadas y agrupación de informes finales.</td>
       </tr>
       <tr style="background-color: #f0f7ff; font-weight: bold; border-top: 2px solid #0969da;">
-        <td colspan="2" style="padding: 12px; text-align: right;">TOTAL PROYECTO</td>
-        <td style="padding: 12px; text-align: center;">6 Semanas</td>
-        <td style="padding: 12px; text-align: center; color: #0969da;">190 Horas</td>
+        <td style="padding: 12px; text-align: right;">TOTALES ACUMULADOS</td>
+        <td style="padding: 12px; text-align: center;">~64 h</td>
+        <td style="padding: 12px; text-align: center; color: #0969da;">190 h</td>
+        <td style="padding: 12px; font-size: 0.85em;">Esfuerzo total consistente con la Red PERT y el presupuesto[cite: 12].</td>
       </tr>
     </tbody>
   </table>
