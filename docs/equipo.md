@@ -454,6 +454,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 
 ---
 ## Trabajo Asignado {#tareas}
+
 <style>
     .elegant-table {
         width: 100%;
