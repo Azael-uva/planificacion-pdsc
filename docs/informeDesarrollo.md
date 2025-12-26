@@ -46,8 +46,8 @@ has_toc: true
   }
   /* Colores para estatus */
   .status-al-dia { color: #1a7f37; font-weight: bold; }
-  .status-retrasado { color: #cf222e; font-weight: bold; }
-  .status-riesgo { color: #9a6700; font-weight: bold; }
+  .status-riesgo { color: #cf222e; font-weight: bold; }
+  .status-retrasado { color: #9a6700; font-weight: bold; }
 </style>
 
 <div class="seccion-informes">
