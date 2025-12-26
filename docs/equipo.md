@@ -359,7 +359,7 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
       </p>
       
       <div style="display: flex; flex-direction: column; gap: 10px; color: #24292e; font-size: 0.95em;">
-        <div><strong> Rol secundario:</strong> Backend Developer</div>
+        <div><strong> Rol secundario:</strong> Full-stack Developer</div>
         <div style="margin-bottom: 5px;"><strong> Estudios:</strong> 5º Indat</div>
 
         <div style="display: flex; align-items: center;">
