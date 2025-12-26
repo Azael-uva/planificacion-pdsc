@@ -284,5 +284,23 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 </div>
 
-## Dificultades, Desviaciones e Interés Futuro {#dificultades}
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+Con esto hemos conseguidos los principales productos: diagramas de diseño, implementación de la aplicación y web e informes de planificación.
+</p>
+</div>
 
+## Dificultades, Desviaciones e Interés Futuro {#dificultades}  
+
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+El hecho de que se hayan cumplido los objetivos propuestos no quiere decir que no haya habido dificultades durante el desarrollo del proyecto. Dentro de estas dificultades podemos destacar la falta de experiencia a la hora de afrontar el proyecto. Esto hace que sea difícil determinar desde un primer momento que tareas hace falta realizar para conseguir los objetivos marcados, por no hablar de la dificultad de estimar cuánto tiempo te puede llevar cada tarea. Esto provoca que sea difícil hacer una buena planificación en las primeras etapas del proyecto. Además, el hecho de ser la primera vez que te enfrentas a algunas tareas hace que se tenga que dedicar más tiempo en descubrir cómo se deben hacer. También fomenta la aparición de errores.
+</p>
+  
+<p>
+Otra de las principales dificultades que hemos encontrado es mantener un ritmo constante en el avance del proyecto. Como ya se ha mencionado en otras secciones, la agenda de los miembros del equipo se ve altamente afectada por factores externos. Esto ha provocado que la realización del proyecto no haya sido uniforme a lo largo del periodo de duración. Como ya se ha mencionado, el esfuerzo se ha concentrado en pocas jornadas de muchas horas. Como resultado, hemos sufrido desviaciones respecto al ritmo de trabajo ideal. De hecho, en los informes semanales se puede ver que en varias ocasiones el proyecto se encontraba retrasado o pausado. Como consecuencia en varias semanas no se ha conseguido completar prácticamente ninguna tarea y por lo tanto no se ha completado ningún producto. Concretamente, en las semanas 2,4 y 5 no se han podido cumplir los plazos previstos.
+</p>
+<p>
+  Por último, lo aprendido en este proyecto puede ser de gran utilidad a la hora de afrontar proyectos futuros. Nos gustaría resaltar la importancia de especializar a los miembros del equipo en diferentes áreas. Esto permite realizar determinadas tareas de forma mucho más eficiente. Además, al ser un proyecto asociado al diseño software en general hay información que puede ser reutilizable o al menos servir de punto de partida para afrontar otros proyectos. Por ejemplo, la identificación de productos, las actividades a realizar… En definitiva, lo más valioso para proyectos futuros es la experiencia/información adquirida al hacer el proyecto que podría ayudar a tener una mejor planificación desde el primer momento.
+</p>
+</div>
