@@ -54,6 +54,6 @@ Bienvenido al repositorio de planificación. Aquí encontrarás toda la informac
 </table>
 
 ---
-**Última actualización:** 22/12/2025
+**Última actualización:** 26/12/2025
 
 
