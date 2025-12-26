@@ -11,6 +11,7 @@ has_toc: true
 1. [Costes](#costes)
 2. [Tiempos](#tiempos)
 3. [Cumplimiento Objetivos](#objetivos)
+4. [Dificultades, Desviaciones e Interés Futuro](#dificultades)
 
 ## Costes {#costes}  
 
@@ -122,3 +123,9 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
  No obstante, si suponemos que este proyecto se llevase a cabo por una empresa (entorno real) tendríamos que tener en cuenta algunos costes materiales. Por ejemplo, tendría que dar a los empleados ordenadores para realizar su trabajo+periféricos+monitores (unos 700€ cada equipo, luego 700*4=2800€). También había que tener en cuenta que ya no dispondríamos de la máquina virtual para desplegar la aplicación. En ese caso, necesitaríamos un Hosting VPS además de pagar por el dominio. Esto supondría unos 50€ a lo largo de este periodo de tiempo.
 </p>
 </div>
+
+## Tiempos {#tiempos}
+
+## Cumplimiento Objetivos {#objetivos}  
+## Dificultades, Desviaciones e Interés Futuro {#dificultades}
+
