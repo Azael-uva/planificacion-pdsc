@@ -6,7 +6,11 @@ has_toc: true
 ---
 
 # 📝 Informes de Desarrollo
-
+## Índice  
+1.[Informes Semanales](#informes-semanales)  
+2.[Riesgos y Conflictos](#riesgos)  
+3.[Informe Final](#informe-final)  
+## Informes Semanales {#informes-semanales}  
 <style>
   .seccion-informes {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -113,3 +117,6 @@ has_toc: true
     </table>
   </div>
 </div>
+
+## Riegos y Conflictos {#riesgos}  
+## Informe Final {#informe-final}
