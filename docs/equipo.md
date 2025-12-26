@@ -13,7 +13,8 @@ En esta sección se encuentra la información sobre los diferentes miembros que 
 3. [Francisco Javier Juárez Gutiérrez](#nano)
 4. [Rafael Miguel Mendizabal García](#rafa)
 5. [Isabel Isidro Seifert](#isabel)
-6. [Trabajo Asignado](#tareas)
+6. [Trabajo Asignado](#tareas)  
+7. [Informe Final](#informe)  
 ## Descarga Equipo {#descarga-equipo}  
 Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/PlantillaEquipo.xlsx)  
 ## Azael Bastardo Rodríguez {#azael}  
@@ -589,4 +590,13 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 </table>
 </div>
 
+## Informe Final {#informe}  
+<div style="text-align: justify;">
+
+En esta sección, hemos visto los diferentes miembros que componen nuestro equipo, así como los roles y las tareas asignados a estos mismos. Gracias a esto, hemos aprendido los diferentes puestos que son necesarios a la hora de llevar a cabo un proyecto software, así como a repartir tareas entre diferentes miembros y especializarnos cada uno en un apartado.  
+
+No obstante, si algo nos ha quedado claro al elaborar esta sección es que un equipo de cuatro personas sería muy pequeño para desarrollar un producto completo de este tipo, o al menos es pequeño para la proporción de tiempo disponible. El hecho de ser tan pocos integrantes provoca que cada uno tenga que hacerse cargo de tareas que a lo mejor no son correspondientes a su rol principal, y aunque hemos tratado de respetar siempre la correspondencia tarea-rol hay veces que no ha sido posible. Por ejemplo, en una situación normal el Project Manager no se involucraría en el diseño de diferentes diagramas software. Sin embargo, por las circunstancias ha habido que hacerlo. Aunque sí que hemos conseguido centralizar las responsabilidades de la parte de planificación en una persona, así como la parte de desarrollo en el equipo correspondiente, no quita que a veces haya habido que ayudar en otras partes.   
+
+Por último, nos gustaría destacar que el hecho de ser parte de una asignatura de una rama concreta provoca que todos los miembros del equipo tengamos perfiles muy similares a la hora de enfrentar el proyecto. Consideramos que esto se aleja del desarrollo de una empresa real donde se contratan diferentes perfiles para llevar a cabo diferentes funciones. Esto provoca que al principio la planificación se desdibuje entre los miembros, ya que en un primer momento todos somos igual de capaces o incapaces de llevar las tareas a cabo. Para intentar compensar este factor e intentar acercarlo más a la realidad hemos hecho que cada uno se “especialice” en una labor, ya que muchas de las tareas pedidas no las habíamos hecho nunca y por lo tanto había que recopilar información previamente para poder desarrollarlas. Así Rafael y Francisco Javier se han encargado de profundizar el diseño software y en el uso de Java Spring Boot, Isabel se ha encargado de informarse sobre como desplegar una base de datos utilizando MySQL y del desarrollo Frontend y Azael se ha centrado en labores de planificación y el uso de GitHub Pages.  
+</div>
 
