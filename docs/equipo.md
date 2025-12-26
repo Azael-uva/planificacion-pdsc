@@ -455,44 +455,66 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 ---
 ## Trabajo Asignado {#tareas}
 
+<div id="contenedor-tabla-equipo">
 <style>
-    .elegant-table {
+    /* Forzamos que el contenedor respete el ancho */
+    #contenedor-tabla-equipo {
         width: 100%;
-        border-collapse: collapse;
-        margin: 25px 0;
-        font-size: 0.9em;
-        font-family: sans-serif;
-        min-width: 400px;
-        box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        overflow-x: auto; /* Permite scroll lateral en móviles */
+        margin: 20px 0;
     }
-    .elegant-table thead tr {
-        background-color: #2c3e50;
-        color: #ffffff;
-        text-align: left;
+
+    /* Estilos de la tabla con alta prioridad */
+    .tabla-final {
+        width: 100% !important;
+        border-collapse: collapse !important;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+        background-color: white !important;
+        color: #333 !important;
+        border: 1px solid #d0d7de !important;
     }
-    .elegant-table th, .elegant-table td {
-        padding: 12px 15px;
-        border: 1px solid #dddddd;
+
+    /* Forzamos que el encabezado sea visible y oscuro */
+    .tabla-final thead tr {
+        background-color: #24292f !important; /* Gris oscuro estilo GitHub */
     }
-    .elegant-table tbody tr {
-        border-bottom: 1px solid #dddddd;
+
+    .tabla-final th {
+        color: #ffffff !important;
+        padding: 12px 15px !important;
+        text-align: left !important;
+        border: 1px solid #444c56 !important;
+        font-weight: 600 !important;
+        font-size: 14px !important;
     }
-    .elegant-table tbody tr:nth-of-type(even) {
-        background-color: #f3f3f3;
+
+    .tabla-final td {
+        padding: 10px 15px !important;
+        border: 1px solid #d0d7de !important;
+        font-size: 13.5px !important;
     }
-    .elegant-table tbody tr:last-of-type {
-        border-bottom: 2px solid #2c3e50;
-        font-weight: bold;
-        background-color: #ecf0f1;
+
+    /* Filas alternas */
+    .tabla-final tbody tr:nth-child(even) {
+        background-color: #f6f8fa !important;
     }
-    .elegant-table tbody tr:hover {
-        background-color: #f1c40f22;
-        transition: 0.3s;
+
+    /* Efecto hover */
+    .tabla-final tbody tr:hover {
+        background-color: #ebf5ff !important;
     }
-    .text-center { text-align: center; }
+
+    /* Fila de totales (última fila) */
+    .tabla-final tbody tr:last-child {
+        background-color: #ddf4ff !important;
+        font-weight: bold !important;
+        color: #0969da !important;
+    }
+
+    .text-center { text-align: center !important; }
 </style>
 
-<table class="elegant-table">
+<table class="tabla-final">
     <thead>
         <tr>
             <th>Tarea</th>
@@ -555,6 +577,9 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
         <tr><td>Agrupar Diagramas en Informe PDF</td><td class="text-center">---</td><td class="text-center">1</td><td class="text-center">1</td><td class="text-center">---</td></tr>
         <tr><td>Subir Archivos Documentación</td><td class="text-center">3</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
         <tr><td>Revisar Especificaciones del Enunciado</td><td class="text-center">1</td><td class="text-center">---</td><td class="text-center">---</td><td class="text-center">---</td></tr>
-        <tr><td><strong>Total (horas)</strong></td><td class="text-center"><strong>55</strong></td><td class="text-center"><strong>45</strong></td><td class="text-center"><strong>45</strong></td><td class="text-center"><strong>45</strong></td></tr>
+        <tr><td>Total (horas)</td><td class="text-center">55</td><td class="text-center">45</td><td class="text-center">45</td><td class="text-center">45</td></tr>
     </tbody>
 </table>
+</div>
+
+
