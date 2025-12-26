@@ -127,6 +127,12 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 ## Tiempos {#tiempos}
 
+<div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
+<p>
+ Respecto a los tiempos lo vamos a dividir en fases de alto nivel. De cara a calcular la duración del proyecto (camino crítico) distinguimos dos caminos principales que corresponden a la parte de planificación y a la parte de diseño. Además en la tabla también se compara la duración de la actividad con el esfuerzo dedicado. También hay que destacar que en el caso de las fases de planificación la duración, en general, coincide con el esfuerzo porque solo hay un responsable de planificación. Las fases de planificación se marcan con una P y las de diseño con una D. Las que no están marcadas son comunes.
+</p>
+</div>
+
 <div class="fases-container">
   <style>
     .fases-container {
