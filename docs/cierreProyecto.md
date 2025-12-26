@@ -129,7 +129,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 <div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
 <p>
- Respecto a los tiempos lo vamos a dividir en fases de alto nivel. De cara a calcular la duración del proyecto (camino crítico) distinguimos dos caminos principales que corresponden a la parte de planificación y a la parte de diseño. Además en la tabla también se compara la duración de la actividad con el esfuerzo dedicado. También hay que destacar que en el caso de las fases de planificación la duración, en general, coincide con el esfuerzo porque solo hay un responsable de planificación. Las fases de planificación se marcan con una P y las de diseño con una D. Las que no están marcadas son comunes.
+ Respecto a los tiempos lo vamos a dividir en fases de alto nivel. De cara a calcular la duración del proyecto (camino crítico) distinguimos dos caminos principales que corresponden a la parte de planificación y a la parte de diseño. Además en la tabla también se compara la duración de la actividad con el esfuerzo dedicado. También hay que destacar que en el caso de las fases de planificación la duración, en general, coincide con el esfuerzo porque solo hay un responsable de planificación. Las fases de planificación se marcan con una P y las de diseño con una D. Las que no están marcadas son comunes, en el sentido de que las realizan todos los miembros del equipo.
 </p>
 </div>
 
@@ -215,10 +215,10 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
         <td>Creación de la página Web</td>
       </tr>
       <tr>
-        <td class="fase-label">Diagramas UML (D)</td>
+        <td class="fase-label">Primeros Diagramas UML</td>
         <td class="data-cell">10</td>
         <td class="data-cell">40</td>
-        <td>Realización de los diagramas pedidos en la parte de diseño</td>
+        <td>Primera versión de los diagramas pedidos</td>
       </tr>
       <tr>
         <td class="fase-label">Planificación Detallada (P)</td>
@@ -246,7 +246,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
       </tr>
       <tr>
         <td class="suma-row-label">Suma Planificación</td>
-        <td class="suma-row-data">45</td>
+        <td class="suma-row-data">55</td>
         <td colspan="2" style="border: none; background: white;"></td>
       </tr>
       <tr>
@@ -260,7 +260,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
 <div style="text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #24292e; max-width: 900px; margin: auto;">
 <p>
- Por lo tanto, el camino crítico es el correspondiente a la parte de planificación y el proyecto dura 45h. No obstante, hay que destacar que ambos caminos están bastante balanceados. También hay que destacar la diferencia entre el esfuerzo (en total 190 horas) y la duración en reloj del proyecto (45 horas). Esto se produce porque varios miembros del equipo participan de forma simultánea en algunas tareas. Además, muchas tareas se pueden realizar de forma paralela.
+ Por lo tanto, el camino crítico es el correspondiente a la parte de planificación y el proyecto dura 55h. No obstante, hay que destacar que ambos caminos están bastante balanceados. También hay que destacar la diferencia entre el esfuerzo (en total 190 horas) y la duración en reloj del proyecto (55 horas). Esto se produce porque varios miembros del equipo participan de forma simultánea en algunas tareas. Además, muchas tareas se pueden realizar de forma paralela. Por último, añadir que la duración del proyecto coincide con el número de horas de la persona que  más horas realiza, lógicamente la duración del proyecto no podía ser menor.
 </p>
 </div>
 
