@@ -17,7 +17,7 @@ has_toc: true
 
 En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
-<<div class="fases-container">
+<div class="fases-container">
   <style>
     .fases-container {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
