@@ -17,68 +17,69 @@ has_toc: true
 
 En este caso nuestros costes se reducen esencialmente a los costes del personal.
 
-<div class="costes-container">
+<<div class="fases-container">
   <style>
-    .costes-container {
+    .fases-container {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       max-width: 900px;
-      margin: 20px auto;
-      border-radius: 8px;
+      margin: 25px auto;
+      border: 1.5px solid #24292e;
+      border-radius: 4px;
       overflow: hidden;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-      border: 1px solid #d0d7de;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
     }
-    .costes-header {
-      background-color: #24292e;
-      color: white;
-      padding: 15px;
-      text-align: center;
-      font-weight: bold;
-      font-size: 1.2em;
-    }
-    .costes-table {
+    .fases-table {
       width: 100%;
       border-collapse: collapse;
       background-color: white;
     }
-    .costes-table th {
-      background-color: #f6f8fa;
-      color: #57606a;
+    /* Estilo del encabezado basado en tu tabla de fases */
+    .fases-table th {
+      background-color: #fff2cc; 
+      color: #000;
       padding: 12px;
-      text-align: left;
-      border-bottom: 2px solid #d0d7de;
-      font-size: 0.85em;
+      text-align: center;
+      border: 1px solid #24292e;
+      font-size: 1.05em;
+      font-weight: bold;
       text-transform: uppercase;
     }
-    .costes-table td {
-      padding: 12px;
-      border-bottom: 1px solid #eaecef;
+    .fases-table td {
+      padding: 10px 15px;
+      border: 1px solid #24292e;
+      color: #000;
       font-size: 0.95em;
-      color: #24292e;
     }
-    .costes-table tr:nth-child(even) {
-      background-color: #fafbfc;
-    }
-    .costes-table tr:hover {
-      background-color: #f1f8ff;
-    }
-    .costes-total-row {
-      background-color: #ddf4ff !important;
+    .text-center { text-align: center !important; }
+    .text-right { text-align: right !important; }
+    
+    /* Fila de totales con el estilo dorado de tu tabla de fases */
+    .total-row-label {
+      background-color: #bf8f00;
+      color: white !important;
       font-weight: bold;
+      text-align: right;
     }
-    .text-right { text-align: right; }
-    .text-center { text-align: center; }
-    .currency { font-weight: 600; color: #0969da; }
+    .total-row-data {
+      background-color: #bf8f00;
+      color: white !important;
+      font-weight: bold;
+      text-align: right;
+    }
+    
+    /* Alternancia de color suave */
+    .fases-table tr:nth-child(even):not(.total-row) {
+      background-color: #fdfdfd;
+    }
   </style>
 
-  <div class="costes-header">💰 INFORME DE COSTES DEL PROYECTO</div>
-  <table class="costes-table">
+  <table class="fases-table">
     <thead>
       <tr>
         <th>Recurso / Rol</th>
-        <th class="text-center">Horas</th>
-        <th class="text-center">Coste/Hora</th>
-        <th class="text-right">Subtotal</th>
+        <th>Horas</th>
+        <th>Coste/Hora</th>
+        <th>Subtotal</th>
       </tr>
     </thead>
     <tbody>
@@ -86,29 +87,29 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
         <td><strong>Azael</strong> (Project Manager)</td>
         <td class="text-center">55</td>
         <td class="text-center">22€</td>
-        <td class="text-right currency">1.210€</td>
+        <td class="text-right">1.210€</td>
       </tr>
       <tr>
         <td><strong>Rafael</strong> (Git Master)</td>
         <td class="text-center">45</td>
         <td class="text-center">18€</td>
-        <td class="text-right currency">810€</td>
+        <td class="text-right">810€</td>
       </tr>
       <tr>
         <td><strong>Francisco Javier</strong> (Lead Developer)</td>
         <td class="text-center">45</td>
         <td class="text-center">20€</td>
-        <td class="text-right currency">900€</td>
+        <td class="text-right">900€</td>
       </tr>
       <tr>
         <td><strong>Isabel</strong> (DBA)</td>
         <td class="text-center">45</td>
         <td class="text-center">18€</td>
-        <td class="text-right currency">810€</td>
+        <td class="text-right">810€</td>
       </tr>
-      <tr class="costes-total-row">
-        <td colspan="3">TOTAL COSTES PERSONALES</td>
-        <td class="text-right currency">3.730€</td>
+      <tr class="total-row">
+        <td colspan="3" class="total-row-label">TOTAL COSTES PERSONALES</td>
+        <td class="total-row-data">3.730€</td>
       </tr>
     </tbody>
   </table>
