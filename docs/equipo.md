@@ -13,6 +13,7 @@ En esta sección se encuentra la información sobre los diferentes miembros que 
 3. [Francisco Javier Juárez Gutiérrez](#nano)
 4. [Rafael Miguel Mendizabal García](#rafa)
 5. [Isabel Isidro Seifert](#isabel)
+6. [Trabajo Asignado](#tareas)
 ## Descarga Equipo {#descarga-equipo}  
 Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/PlantillaEquipo.xlsx)  
 ## Azael Bastardo Rodríguez {#azael}  
@@ -450,3 +451,6 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
     </div>
   </div>
 </div>
+
+---
+## Trabajo Asignado {#tareas}
