@@ -96,7 +96,7 @@ has_toc: true
   <div class="semana-card">
     <div class="semana-header">SEMANA 5: 15/12/2025</div>
     <table class="tabla-informe">
-      <tr><td class="label-col">🟡 ESTATUS</td><td class="status-al-dia">Retrasado</td></tr>
+      <tr><td class="label-col">🟡 ESTATUS</td><td class="status-retrasado">Retrasado</td></tr>
       <tr><td class="label-col">🛠️ TAREAS ACTIVAS</td><td>Desarrollar Sección Inicio, Implementar Caso de Uso Auxiliar, Implementar Caso de Uso 1, Desarrollar Sección Reuniones, Desarrollar Sección Equipo, Desarrollar Sección Prod., Desarrollar Sección Informes de Desarrollo, Desarrollar Sección Cierre del Proyecto, Rellenar Plantilla Excel, Definir PBS Alto Nivel, Escribir Informes Semanales, Documentar Actas Reuniones, Identificar Riesgos y Conflictos, Especificar Roles Miembros..</td></tr>
       <tr><td class="label-col">🤝 REUNIONES</td><td>15/12/2025 y 20/12/2025</td></tr>
       <tr><td class="label-col">📦 PRODUCTOS</td><td>Inicio (Web), Excel Equipo, Roles.</td></tr>
