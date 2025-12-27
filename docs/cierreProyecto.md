@@ -5,7 +5,8 @@ nav_order: 6
 has_toc: true
 ---
 
-# 🏁 Cierre del Proyecto
+# 🏁 Cierre del Proyecto  
+En esta sección se encuentra toda la información pedida en el punto 4 del enunciado (Cierre del proyecto).
 
 ## Índice
 1. [Costes](#costes)
@@ -53,7 +54,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
     .text-center { text-align: center !important; }
     .text-right { text-align: right !important; }
     
-    /* Fila de totales con el estilo dorado de tu tabla de fases */
+    
     .total-row-label {
       background-color: #bf8f00;
       color: white !important;
@@ -67,7 +68,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
       text-align: right;
     }
     
-    /* Alternancia de color suave */
+    
     .fases-table tr:nth-child(even):not(.total-row) {
       background-color: #fdfdfd;
     }
@@ -150,7 +151,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
       background-color: white;
     }
     .fases-table th {
-      background-color: #fff2cc; /* Color crema del encabezado */
+      background-color: #fff2cc; 
       color: #000;
       padding: 12px;
       text-align: center;
@@ -164,7 +165,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
       color: #000;
       font-size: 0.95em;
     }
-    /* Estilo para las etiquetas de las fases (columna 1) */
+    
     .fase-label {
       font-weight: bold;
       text-align: center;
@@ -173,9 +174,9 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
     .data-cell {
       text-align: center;
     }
-    /* Colores para las sumas finales */
+    
     .suma-row-label {
-      background-color: #bf8f00; /* Dorado oscuro */
+      background-color: #bf8f00; 
       color: white !important;
       font-weight: bold;
       text-align: left;
@@ -186,7 +187,7 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
       font-weight: bold;
       text-align: center;
     }
-    /* Alternancia de color suave para filas */
+    
     .fases-table tr:nth-child(even) {
       background-color: #fdfdfd;
     }
