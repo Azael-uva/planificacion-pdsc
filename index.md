@@ -14,7 +14,7 @@ description: "Página de inicio del proyecto"
 Bienvenido al repositorio de planificación. Aquí encontrarás toda la información relativa a la parte de planificación del proyecto de la asignatura. Recomendamos consultarlo todo en esta página, ya que la información se presenta de forma más atractiva. Además, también se incluye la información de las plantillas Excel. No obstante, aquí se puede descargar el informe correspondiente: 
 </div>
 
-[Descargar PDF](../assets/documentos/entrega_planificacion.pdf) 
+[Descargar PDF](./assets/documentos/entrega_planificacion.pdf) 
 
 
 
