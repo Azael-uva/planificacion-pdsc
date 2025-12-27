@@ -5,7 +5,8 @@ nav_order: 3
 has_toc: true
 ---
 
-# 📦 Estructura de Productos y Trabajo
+# 📦 Estructura de Productos y Trabajo  
+En esta sección se encuentra toda la información pedida en el punto 1 del enunciado (Estructura de Productos y Trabajo).
 
 ## Índice
 1. [PBS alto nivel](#pbs-alto-nivel)
