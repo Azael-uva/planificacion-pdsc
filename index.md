@@ -10,7 +10,9 @@ description: "Página de inicio del proyecto"
 
 <h1 style="margin-top: -40px !important; padding-top: 0 !important;">📂 Planificación del Proyecto</h1>
 
-Bienvenido al repositorio de planificación. Aquí encontrarás toda la información relativa a la parte de planificación del proyecto de la asignatura.
+<div style="text-align: justify;">
+Bienvenido al repositorio de planificación. Aquí encontrarás toda la información relativa a la parte de planificación del proyecto de la asignatura. Recomendamos consultarlo todo en esta página, ya que la información se presenta de forma más atractiva. Además, también se incluye la información de las plantillas Excel. No obstante, aquí se puede descargar el informe correspondiente: [Descargar PDF](../assets/documentos/entrega_planificacion.pdf) 
+</div>
 
 
 
