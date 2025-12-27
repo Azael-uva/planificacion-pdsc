@@ -5,7 +5,8 @@ nav_order: 5
 has_toc: true
 ---
 
-# 📝 Informes de Desarrollo
+# 📝 Informes de Desarrollo  
+En esta sección se encuentra toda la información pedida en el punto 3 del enunciado (Informes del desarrollo) a excepción de la documentación de las reuniones que se encuentra en la sección Reuniones.  
 ## Índice  
 1. [Informes Semanales](#informes-semanales)  
 2. [Riesgos y Conflictos](#riesgos)  
