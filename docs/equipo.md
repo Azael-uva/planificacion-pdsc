@@ -458,14 +458,12 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
 
 <div class="custom-table-wrapper">
 <style>
-    /* 1. Forzamos el contenedor para evitar conflictos */
     .custom-table-wrapper {
         margin: 30px 0 !important;
         width: 100% !important;
         overflow-x: auto !important;
     }
-
-    /* 2. Selector de alta especificidad para la tabla */
+  
     table.tabla-elegante {
         display: table !important;
         width: 100% !important;
@@ -476,10 +474,10 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
         box-shadow: 0 4px 12px rgba(0,0,0,0.08) !important;
     }
 
-    /* 3. ENCABEZADO: Aplicamos el fondo a la celda TH directamente */
+    
     table.tabla-elegante thead th {
-        background-color: #24292f !important; /* Gris muy oscuro */
-        color: #ffffff !important;           /* Texto blanco puro */
+        background-color: #24292f !important; 
+        color: #ffffff !important;           
         padding: 14px 15px !important;
         border: 1px solid #30363d !important;
         font-size: 14px !important;
@@ -487,31 +485,31 @@ Para descargar el archivo del equipo: [Equipo (XLSX)](../assets/documentos/Plant
         text-align: center !important;
     }
 
-    /* Alinear la primera columna a la izquierda */
+    
     table.tabla-elegante thead th:first-child {
         text-align: left !important;
     }
 
-    /* 4. CUERPO DE LA TABLA */
+    
     table.tabla-elegante tbody td {
         padding: 10px 15px !important;
         border: 1px solid #d8dee4 !important;
         font-size: 13px !important;
-        color: #24292e !important; /* Texto oscuro */
+        color: #24292e !important; 
         background-color: #ffffff !important;
     }
 
-    /* Filas alternas */
+    
     table.tabla-elegante tbody tr:nth-child(even) td {
         background-color: #f6f8fa !important;
     }
 
-    /* Hover en la fila */
+    
     table.tabla-elegante tbody tr:hover td {
         background-color: #f0f7ff !important;
     }
 
-    /* 5. FILA DE TOTALES (Última fila) */
+    
     table.tabla-elegante tbody tr:last-child td {
         background-color: #ddf4ff !important;
         font-weight: bold !important;
