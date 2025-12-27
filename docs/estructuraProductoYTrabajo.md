@@ -80,6 +80,8 @@ Aclarar que esfuerzo no es lo mismo que duración en el caso de la participació
 ### Versiones anteriores
 [v1 PDF](../assets/documentos/PERT_v1.pdf)    
 [v1 SVG](../assets/documentos/PERT_v1.svg)  
+[v2 PDF](../assets/documentos/PERT_v2.pdf)    
+[v2 SVG](../assets/documentos/PERT_v2.svg) 
 ## Informe Final {#informe-final}  
 <div style="text-align: justify;">
 
