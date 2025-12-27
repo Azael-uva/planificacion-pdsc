@@ -209,16 +209,16 @@ En este caso nuestros costes se reducen esencialmente a los costes del personal.
         <td>Común a todo, decisiones iniciales</td>
       </tr>
       <tr>
-        <td class="fase-label">Desarrollo Web (P)</td>
-        <td class="data-cell">9</td>
-        <td class="data-cell">9</td>
-        <td>Creación de la página Web</td>
-      </tr>
-      <tr>
         <td class="fase-label">Primeros Diagramas UML</td>
         <td class="data-cell">10</td>
         <td class="data-cell">40</td>
         <td>Primera versión de los diagramas pedidos</td>
+      </tr>
+      <tr>
+        <td class="fase-label">Desarrollo Web (P)</td>
+        <td class="data-cell">9</td>
+        <td class="data-cell">9</td>
+        <td>Creación de la página Web</td>
       </tr>
       <tr>
         <td class="fase-label">Planificación Detallada (P)</td>
